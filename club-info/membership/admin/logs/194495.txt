@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Couple
+    [FirstName1] => Eric
+    [NickName1] => 
+    [LastName1] => Ackerman
+    [Email1] => elackerma@yahoo.com
+    [Phone1] => 250 364-5669
+    [FirstName2] => Elizabeth 
+    [NickName2] => 
+    [LastName2] => Krebbers
+    [Email2] => carnel@shaw.ca
+    [Phone2] => 250 777-2949
+    [Addr1] => 1367 3rd Ave
+    [Addr2] => 
+    [City] => Trail
+    [Prov] => British Columbia
+    [Postal] => V1R 1P3
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 61.00
+    [Newsletter] => 0
+)
+

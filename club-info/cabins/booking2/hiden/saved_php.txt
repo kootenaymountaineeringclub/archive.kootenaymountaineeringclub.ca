@@ -1,0 +1,26 @@
+		<p>Please select the date you would like your trip to begin:</p>
+		
+		
+<?php      
+		session_regenerate_id();
+		// See if it is an administrator
+		$admin_welcome = "";
+		if (isset($_SESSION["admin"]))
+		{
+			echo "<p>Welcome " . $_SESSION["admin_name"] . ". You may book complimentary nights.</p>\n";
+		}
+		else
+		{
+			$_SESSION = array(); // remove all old values
+		}
+		
+        date_default_timezone_set( 'America/Los_Angeles');
+        $today_array = getdate();
+        echo "<form method='POST' action='select_dates.php'>\n";
+        echo day_select("start_day", $today_array);
+        echo month_select("start_month", $today_array);
+        echo year_select("start_year", $today_array);
+        echo "\n<input type='submit' name='submit' value='Show Availability'></form>\n";
+        echo "<p><strong>Attention:</strong> This booking process requires that you have allowed 'cookies' to be placed in your web browser. If you have them turned off, please turn them on for the length of time it takes to  finish placing your hut booking. Thanks !!!</p>\n";
+    }
+?>

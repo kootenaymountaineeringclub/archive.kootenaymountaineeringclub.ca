@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Henry
+    [NickName1] => 
+    [LastName1] => Hutter
+    [Email1] => grizzlyhenry@hotmail.com
+    [Phone1] => 
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 6560 Berekoff Rd.
+    [Addr2] => 
+    [City] => Winlaw,
+    [Prov] => BC
+    [Postal] => V0G 2J0
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

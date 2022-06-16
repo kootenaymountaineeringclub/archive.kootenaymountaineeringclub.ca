@@ -1,0 +1,26 @@
+Session:
+Array
+(
+    [MembType] => Couple
+    [FirstName1] => Ron
+    [NickName1] => 
+    [LastName1] => Cameron
+    [Email1] => janron2@telus.net
+    [Phone1] => 250-364-1487
+    [FirstName2] => Janet
+    [NickName2] => 
+    [LastName2] => Cameron
+    [SharedEmail] => 1
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 2054 7th Ave
+    [Addr2] => 
+    [City] => Trail
+    [Prov] => BC
+    [Postal] => V1R 365
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 61.00
+    [Newsletter] => 0
+)
+

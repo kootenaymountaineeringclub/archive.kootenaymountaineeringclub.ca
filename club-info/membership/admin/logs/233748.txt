@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Fiona
+    [NickName1] => 
+    [LastName1] => Brown
+    [Email1] => artbug@telus.net
+    [Phone1] => 
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 705 Stanley St
+    [Addr2] => 
+    [City] => Nelson
+    [Prov] => BC
+    [Postal] => V1L1N6
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

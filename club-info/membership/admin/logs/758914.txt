@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Kal
+    [NickName1] => 
+    [LastName1] => Singh
+    [Email1] => none@provided
+    [Phone1] => 
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 
+    [Addr2] => 
+    [City] => Unknown
+    [Prov] => 
+    [Postal] => 
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

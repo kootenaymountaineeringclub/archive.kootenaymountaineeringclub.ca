@@ -1,0 +1,26 @@
+Session:
+Array
+(
+    [MembType] => Couple
+    [FirstName1] => Kim
+    [NickName1] => 
+    [LastName1] => Deane
+    [Email1] => kdeane@shaw.ca
+    [Phone1] => 
+    [FirstName2] => Gillian
+    [NickName2] => 
+    [LastName2] => Deaane
+    [SharedEmail] => 1
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => PO Box 701
+    [Addr2] => 1835 Butte Street
+    [City] => Rossland
+    [Prov] => BC
+    [Postal] => V0G 1Y0
+    [private] => 1
+    [Agreement] => Agreed
+    [MembCost] => 61.00
+    [Newsletter] => 0
+)
+

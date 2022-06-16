@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Germain
+    [NickName1] => 
+    [LastName1] => Daoust
+    [Email1] => germain.daoust@gmail.com
+    [Phone1] => 250 352-2287
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 8-567 Ward St
+    [Addr2] => 
+    [City] => Nelson
+    [Prov] => BC
+    [Postal] => 
+    [private] => 0
+    [Agreement] => xxx
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

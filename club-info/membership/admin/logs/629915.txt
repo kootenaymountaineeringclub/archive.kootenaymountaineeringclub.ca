@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Couple
+    [FirstName1] => Claudette
+    [NickName1] => 
+    [LastName1] => Burton
+    [Email1] => kuantam5@netideacom
+    [Phone1] => 250 229-5462
+    [FirstName2] => John
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 
+    [Addr2] => 
+    [City] => 
+    [Prov] => 
+    [Postal] => 
+    [private] => 0
+    [Agreement] => xxx
+    [MembCost] => 61.00
+    [Newsletter] => 0
+)
+

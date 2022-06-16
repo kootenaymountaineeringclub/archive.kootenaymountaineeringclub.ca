@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Katya
+    [NickName1] => 
+    [LastName1] => Coad
+    [Email1] => katyacoad@hotmail.com
+    [Phone1] => 778 650-9737
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 3301 Little Slocan Rd
+    [Addr2] => 
+    [City] => Winlaw
+    [Prov] => BC
+    [Postal] => V0G 2J0
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

@@ -1,0 +1,93 @@
+#loginform {
+	width: 70%;
+	margin: 20px auto;
+	padding: 10px 10px;
+	background: #e1e1e1;
+}
+
+#loginform label {
+	display: inline-block;
+	width: 60%;
+	padding-right: 10px;
+	text-align: right;
+}
+
+#loginform button {
+	display: block;
+	width: 20%;
+	margin: 10px auto;
+	text-align: center;
+	font-size: 100%;
+	padding: 10px 0;
+}
+
+.formPart {
+	width: 80%;
+	margin: 4px auto;
+	padding: 10px;
+	background: #d6e5fa;
+	border: 1px solid black;
+}
+
+.formHeader {
+	margin: 2px;
+	padding: 4px 4px 4px 20px;
+	background: #9fb1d8;
+}
+
+.formItem input.text {
+	width: 60%;
+}
+
+.formItem label {
+	display: inline-block;
+	font-size: .8em;
+	width: 30%;
+	text-align: right;
+}
+
+.formPart .formButton {
+	display: block;
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	font-size: 1em;
+	font-weight: 400;
+	background-color: #f7e371
+}
+
+.formHidden {
+	visibility: hidden;
+	height: 0;
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+#Waiver div .highlite {
+	margin: .5em 0;
+	padding: .5em;
+	border: 2px red solid;
+	background-color: yellow;
+}
+
+#Waiver p {
+	font-size: .8em;
+}
+
+#Waiver p.please {
+	font-size: 110%;
+	font-style: oblique;
+	text-align: center;
+}
+
+.required {
+	font-weight: 500;
+	color: red;
+}
+
+.requiredlabels {
+	color: red;
+	font-size: .75em;
+	text-align: center;
+}

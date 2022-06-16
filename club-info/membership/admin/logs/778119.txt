@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Judy 
+    [NickName1] => 
+    [LastName1] => Brown
+    [Email1] => jbcreativedesigns@hotmail.com
+    [Phone1] => 778-463-0241
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => #56-739 Highway 3A
+    [Addr2] => 
+    [City] => BC
+    [Prov] => Nelson, 
+    [Postal] => V1L6M5
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

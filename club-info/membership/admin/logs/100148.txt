@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Erwin
+    [NickName1] => 
+    [LastName1] => Mentz
+    [Email1] => cyclingmaniac@hotmail.com
+    [Phone1] =>    
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 7585 Harrop-Proctor Rd
+    [Addr2] => 
+    [City] => Nelson
+    [Prov] => BC
+    [Postal] => V1L 6R7
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

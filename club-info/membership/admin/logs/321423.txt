@@ -1,0 +1,40 @@
+Session:
+Array
+(
+    [MembType] => Couple
+    [FirstName1] => Joe
+    [NickName1] => JB
+    [LastName1] => Blow
+    [Email1] => jb@blow.ca
+    [Phone1] => 1234567890
+    [FirstName2] => Mary
+    [NickName2] => 
+    [LastName2] => Lamb
+    [Email2] => mary@blow.ca
+    [Phone2] => 1234567891
+    [Addr1] => Apt. 1234
+    [Addr2] => 567 Cristal Bay
+    [City] => Nelson
+    [Prov] => BC
+    [Postal] => V1L 5X7
+    [private] => 1
+    [kmc] => 1
+    [fmcbc] => 1
+    [Agreement] => Agreed
+    [MembCost] => 61.00
+    [Newsletter] => 20.00
+)
+
+OOPS:
+Oops.  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 4
+
+
+Query1:
+insert into `Member` (`MembershipID`,`Year`,`MembershipType`,`FirstName`,`NickName`,`LastName`,`DistinctName`,
+	  						`StreetAddress`,`StreetAddress2`,`City`,`Province`,`PostalCode`,
+	  						`Email`,`Phone`,`KmcNewsletter`,`FmcbcNewsletter`,
+	  						`PrivateName`,`Amount`) values (321423, '2016', 'Couple', 'Joe', '', 'Blow', 'Blow, Joe', 'Apt. 1234', '567 Cristal Bay', 'Nelson', 'BC', 'V1L 5X7', 'jb@blow.ca', '1234567890', 1, 1, 1, )
+Query1:
+insert into `Member` (`MembershipID`,`Year`,`MembershipType`,`FirstName`,`NickName`,`LastName`,`DistinctName`,
+	  						`StreetAddress`,`StreetAddress2`,`City`,`Province`,`PostalCode`,
+	  						`Email`,`Phone`,`PrivateName`) values ('321423', '2016', 'Couple', 'Mary', '', 'Lamb', 'Lamb, Mary', 'Apt. 1234', '567 Cristal Bay', 'Nelson', 'BC', 'V1L 5X7', 'mary@blow.ca', '1234567891', 1)

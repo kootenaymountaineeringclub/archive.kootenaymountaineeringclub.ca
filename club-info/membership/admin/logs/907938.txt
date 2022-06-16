@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Couple
+    [FirstName1] => Ineke
+    [NickName1] => 
+    [LastName1] => Tuit
+    [Email1] => ineke.tuit@gmail.com
+    [Phone1] => 778 463-3351
+    [FirstName2] => John
+    [NickName2] => 
+    [LastName2] => Kortram
+    [Email2] => john.kortram@gmail.com
+    [Phone2] => 
+    [Addr1] => 2430 Perrier Rd
+    [Addr2] => 
+    [City] => Nelson
+    [Prov] => BC
+    [Postal] => V1L 7C3
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 61.00
+    [Newsletter] => 0
+)
+

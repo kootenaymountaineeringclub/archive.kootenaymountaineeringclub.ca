@@ -1,0 +1,26 @@
+Session:
+Array
+(
+    [MembType] => Couple
+    [FirstName1] => Marlene
+    [NickName1] => 
+    [LastName1] => Johnston
+    [Email1] => macmar@lardeauvalley.com
+    [Phone1] => 250-366-4474
+    [FirstName2] => Joe
+    [NickName2] => 
+    [LastName2] => Johnson
+    [SharedEmail] => 1
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => RR1 S1 C4
+    [Addr2] => 
+    [City] => Kaslo
+    [Prov] => BC
+    [Postal] => V0G 1M0
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 61.00
+    [Newsletter] => 0
+)
+

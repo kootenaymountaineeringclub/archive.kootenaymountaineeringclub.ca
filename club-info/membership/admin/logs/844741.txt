@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Sheila
+    [NickName1] => 
+    [LastName1] => Moro
+    [Email1] => smoro13@hotmail.com
+    [Phone1] => 250-368-5741
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 647 Montcalm Rd
+    [Addr2] => 
+    [City] => Trail
+    [Prov] => BC
+    [Postal] => V1R 2S7
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

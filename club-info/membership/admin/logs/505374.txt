@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Lynn 
+    [NickName1] => 
+    [LastName1] => Moffat
+    [Email1] => gladezone@yahoo.com
+    [Phone1] => 250 304-8405
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => care of 1060 Antler Road
+    [Addr2] => 
+    [City] => Castlegar, BC
+    [Prov] => 
+    [Postal] => V1N 4R6
+    [private] => 1
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0.00
+)
+

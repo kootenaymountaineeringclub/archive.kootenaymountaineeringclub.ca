@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Janice
+    [NickName1] => 
+    [LastName1] => Isaac
+    [Email1] => isaac.kratty@gmail.com
+    [Phone1] => 250-352-3895
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 44 Oak Street
+    [Addr2] => 
+    [City] => Nelson
+    [Prov] => BC
+    [Postal] => V1L 2V9
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

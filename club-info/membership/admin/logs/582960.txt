@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Couple
+    [FirstName1] => Andrew
+    [NickName1] => 
+    [LastName1] => Dean
+    [Email1] => andres@gaigreen.com
+    [Phone1] => 250-444-3745
+    [FirstName2] => Mandi
+    [NickName2] => 
+    [LastName2] => Profili
+    [Email2] => mandiprofili@gmail.com
+    [Phone2] => 
+    [Addr1] => 9130 Granby Road
+    [Addr2] => 
+    [City] => Grand Forks
+    [Prov] => BC
+    [Postal] => V0H 1H1
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 61.00
+    [Newsletter] => 0
+)
+

@@ -1,0 +1,378 @@
+/*------------------ SMALLEST ----------------*/
+
+@media (max-width: 379px) {
+
+	#master {                              /*    MASTER    */
+		width: 98%;
+	}
+	
+	header img {                           /*    HEADER    */
+		display: none;
+		height: 0;
+		margin: 0;
+		position-x: 0;
+		position-y:	0;
+	}
+
+	#header-nav {
+		width: 100%;
+		height: 30px;
+	}
+	
+	#header-nav a:nth-child(1) { width: 15%; margin-left: 0; }
+	#header-nav a:nth-child(2) { width: 22%; }
+	#header-nav a:nth-child(3) { width: 27%; }
+	#header-nav a:nth-child(4) { width: 31%; margin-right: 0; }
+	
+	#header-nav a {
+		height: 16px;
+		font-size: .7em;
+	}
+
+	header h1, header p {
+		text-align: center;
+	}
+	
+	header h1 {
+		margin-top: 6px;
+		font-size: 1em;
+	}
+	
+	header p {
+		font-size: .8em;
+	}
+	
+	#content {
+		font-size: .6em;
+	}
+	
+	#content nav a, footer nav a {
+		font-size: 75%;
+	}
+
+	aside {                               /* ASIDES top */
+		width: 97%;
+		margin: 10px auto;
+		height: auto;
+		padding: 5px;
+	}
+	
+	.hide-small {
+		visibility: hidden;
+		height: 0;
+		width: 0;
+	}
+	
+	.hide-small figure {
+		visibility: hidden;
+		height: 0;
+		width: 0;
+	}
+	
+	.hide-small img {
+		visibility: hidden;
+		height: 0;
+		width: 0;
+	}
+	
+	.hide-small figcaption {
+		visibility: hidden;
+		height: 0;
+		width: 0;
+	}
+	
+	aside h4 {
+		margin-bottom: 5px;
+	}
+
+	aside #links, aside #image-links {
+		width: 100%;
+		margin: 5px 0;
+		padding: 0;
+		text-align: center;
+	}
+
+	aside #links ul, aside #image-links ul {
+		width: 100%;
+		height: auto;
+		padding: 0;
+	}
+	
+	aside #links li, aside #image-links li {
+		display: inline-block;
+		height: auto;
+		width: 23%;
+		margin: auto .5%;
+		vertical-align: top;
+	}
+	
+	aside #links a, aside #image-links a {
+		display: block;
+		width: 98%;
+		height: auto;
+		margin: 2px auto;
+		padding: .6em 0 .2em 0;
+	}
+	
+	aside #image-links img {
+		width: 100%;
+		margin:  4px auto;
+	}
+	
+	aside #image-links p {
+		text-align: center;
+		margin: 4px 0;
+	}
+	
+	#image-strip, .image-of-strip, .image-of-strip img, .image-of-strip p  {
+		display: none;
+	}
+
+	.link-header a {
+		width: 45%;
+		margin: 0 auto;
+	}
+}
+
+/*---------------- MEDIUM -----------------*/
+
+@media (min-width: 380px) and (max-width: 640px) {
+
+	#master {                              /*    MASTER    */
+		width: 98%;
+		min-width: 330px;
+	}
+	
+	header img {                           /*    HEADER    */
+		display: none;
+		height: 0;
+		margin: 0;
+		position-x: 0;
+		position-y:	0;
+	}
+	
+	#header-nav {
+		width: 100%;
+		height: 30px;
+	}
+	
+	#header-nav a:nth-child(1) { width: 15%; }
+	#header-nav a:nth-child(2) { width: 22%; }
+	#header-nav a:nth-child(3) { width: 27%; }
+	#header-nav a:nth-child(4) { width: 31%; }
+	
+	#header-nav a {
+		height: 16px;
+		font-size: .7em;
+	}
+
+	header h1, header p {
+		text-align: center;
+	}
+	
+	header h1 {
+		margin-top: 10px;
+		font-size: 1.1em;
+	}
+	
+	header p {
+		font-size: .9em;
+	}
+	
+	header #photographer {
+		position: absolute;
+		top: 130px;
+		left: 0px;
+	}
+	#content {
+		font-size: .8em;
+	}
+	
+	#content nav a {
+		font-size: 85%;
+	}
+
+	#master footer nav a{
+		font-size: 75%;
+	}
+
+	aside {                               /* ASIDES top */
+		width: 97%;
+		margin: 10px auto;
+		height: auto;
+		padding: 5px;
+	}
+
+	aside #links, aside #image-links {
+		width: 100%;
+		margin: 5px 0;
+		padding: 0;
+		text-align: center;
+	}
+
+	aside ul {
+		text-align: center;
+		margin-top: 2px;
+	}
+	
+	aside #links li, aside #image-links li {
+		display: inline-block;
+		width: 23%;
+		margin: 2px .5%;
+		vertical-align: top;
+	}
+
+	aside #links a, aside #image-links a {
+		margin: 2px;
+		padding: 0;
+	}
+	
+	aside #image-links img {
+		width: 98%;
+		margin:  4px auto;
+	}
+	
+	aside #image-links p {
+		text-align: center;
+		margin: 4px 0;
+	}
+	
+	#image-strip, .image-of-strip, .image-of-strip img, .image-of-strip p  {
+		display: none;
+	}
+
+	.link-header a {
+		width: 32%;
+		margin: 0 auto;
+	}
+
+}
+
+/*------------------ BIGGEST ---------------------------*/
+
+@media (min-width: 641px) and (max-width: 2400px) {
+
+	#master {                       /*    MASTER    */
+		max-width: 980px;
+	}
+	
+	header #header-nav {            /*    HEADER    */
+		float: left;
+		width: 150px;
+		margin-right: 15px;
+		height: 150px;
+	}
+	
+	header nav a { display: inline-block; width: 100%; margin-top: 13px; font-weight: 600; color: #001753; }
+
+/* 	header h1, header p { text-align: left; } */
+	
+	header h1 {
+		font-size: 1.6em;
+		margin-top: 8px;
+	}
+	
+	header p {
+		font-size: .9em;	
+	}
+
+	header #photographer {
+		position: absolute;
+		top: 130px;
+		left: 150px;
+	}
+
+	#content {
+		font-size: 1em;
+	}
+	
+	#aside-right, #aside-left {                /* Left and right ASIDES */
+		width: 25%;
+		margin: 25px 1%;
+	}
+
+	#aside-left {
+		float: left;
+		margin-left: 0px;
+	}
+	
+	#aside-right {
+		float: right;
+		margin-right: 0px;
+	}
+
+	aside #links, aside #image-links {
+		width: 90%;
+		margin: 5px auto;
+		padding: 0;
+		text-align: center;
+		font-size: .8em;
+	}
+
+	aside #links ul, aside #image-links ul {
+		width: 100%;
+		margin-bottom: 6px;
+		padding: 4px 0;
+	}
+	
+	aside #links li, aside #image-links li {
+		display: block;
+		width: 100%;
+		margin: 2px 0 10px;
+	}
+	
+	aside #links a, aside #image-links a {
+		display: block;
+		width: 100%;
+		padding: 0;
+		color: #001753;
+	}
+	
+	aside #image-links img {
+		width: 75%;
+		margin: 4px auto 0;
+	}
+	
+	aside #image-links p {
+		text-align: center;
+		margin: 0 0 8px 0;
+	}
+
+	.link-header a {
+		width: 23%;
+		margin: 0 auto;
+	}
+	
+	.centred {
+		text-align:center
+	}
+
+	#section-right, #section-left {    /* Left and right SECTIONS */
+		width: 70%;
+		margin: 10px 0;
+		padding: 15px 2%;
+	}
+
+	#section-right {
+		float: right;		
+	}
+	
+	#section-left {
+		float: left;		
+	}
+
+	#small-section-right, #small-section-left {    /* Left and right SECTIONS */
+		width: 45%;
+		margin: 10px 0;
+		padding: 15px 2%;
+	}
+
+	#small-section-right {
+		float: right;
+	}
+	
+	
+	#small-section-left {
+		float: left;
+	}
+}

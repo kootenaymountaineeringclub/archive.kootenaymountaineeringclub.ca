@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Sarah 
+    [NickName1] => 
+    [LastName1] => Quanz
+    [Email1] => sarah_quanz@hotmail.com
+    [Phone1] => 519-589-3335
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 312 Hoover Street,
+    [Addr2] => 
+    [City] => Nelson 
+    [Prov] => BC
+    [Postal] => V1L4W6
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

@@ -1,0 +1,141 @@
+Get Express Checkout:
+Array
+(
+    [TOKEN] => EC-3F446861H3299413R
+    [BILLINGAGREEMENTACCEPTEDSTATUS] => 0
+    [CHECKOUTSTATUS] => PaymentActionNotInitiated
+    [TIMESTAMP] => 2018-06-14T15:51:09Z
+    [CORRELATIONID] => 7ee2364d89227
+    [ACK] => Success
+    [VERSION] => 109.0
+    [BUILD] => 000000
+    [EMAIL] => gshume@gmail.com
+    [PAYERID] => 52ZKUR568D8K8
+    [PAYERSTATUS] => verified
+    [FIRSTNAME] => Grant
+    [LASTNAME] => Hume
+    [COUNTRYCODE] => CA
+    [SHIPTONAME] => Grant Hume
+    [SHIPTOSTREET] => 4728 Bain Rd
+    [SHIPTOCITY] => Beasley
+    [SHIPTOSTATE] => BC
+    [SHIPTOZIP] => V0G2G2
+    [SHIPTOCOUNTRYCODE] => CA
+    [SHIPTOCOUNTRYNAME] => Canada
+    [ADDRESSSTATUS] => Confirmed
+    [CURRENCYCODE] => CAD
+    [AMT] => 38.00
+    [ITEMAMT] => 38.00
+    [SHIPPINGAMT] => 0.00
+    [HANDLINGAMT] => 0.00
+    [TAXAMT] => 0.00
+    [NOTIFYURL] => http://www.kootenaymountaineering.bc.ca/booking/IPN_Post.php
+    [INSURANCEAMT] => 0.00
+    [SHIPDISCAMT] => 0.00
+    [INSURANCEOPTIONOFFERED] => false
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 38.00
+    [PAYMENTREQUEST_0_ITEMAMT] => 38.00
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0.00
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0.00
+    [PAYMENTREQUEST_0_TAXAMT] => 0.00
+    [PAYMENTREQUEST_0_NOTIFYURL] => http://www.kootenaymountaineering.bc.ca/booking/IPN_Post.php
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0.00
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0.00
+    [PAYMENTREQUEST_0_SELLERPAYPALACCOUNTID] => cabins@kootenaymountaineeringclub.ca
+    [PAYMENTREQUEST_0_INSURANCEOPTIONOFFERED] => false
+    [PAYMENTREQUEST_0_SHIPTONAME] => Grant Hume
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 4728 Bain Rd
+    [PAYMENTREQUEST_0_SHIPTOCITY] => Beasley
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => BC
+    [PAYMENTREQUEST_0_SHIPTOZIP] => V0G2G2
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => CA
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYNAME] => Canada
+    [PAYMENTREQUEST_0_ADDRESSSTATUS] => Confirmed
+    [PAYMENTREQUESTINFO_0_ERRORCODE] => 0
+)
+
+
+Do Express Checkout:
+Array
+(
+    [TOKEN] => EC-3F446861H3299413R
+    [SUCCESSPAGEREDIRECTREQUESTED] => false
+    [TIMESTAMP] => 2018-06-14T15:51:12Z
+    [CORRELATIONID] => 20bb541cf053
+    [ACK] => Success
+    [VERSION] => 109.0
+    [BUILD] => 000000
+    [INSURANCEOPTIONSELECTED] => false
+    [SHIPPINGOPTIONISDEFAULT] => false
+    [PAYMENTINFO_0_TRANSACTIONID] => 16V0068521024035U
+    [PAYMENTINFO_0_TRANSACTIONTYPE] => expresscheckout
+    [PAYMENTINFO_0_PAYMENTTYPE] => instant
+    [PAYMENTINFO_0_ORDERTIME] => 2018-06-14T15:51:10Z
+    [PAYMENTINFO_0_AMT] => 38.00
+    [PAYMENTINFO_0_FEEAMT] => 1.40
+    [PAYMENTINFO_0_TAXAMT] => 0.00
+    [PAYMENTINFO_0_CURRENCYCODE] => CAD
+    [PAYMENTINFO_0_PAYMENTSTATUS] => Completed
+    [PAYMENTINFO_0_PENDINGREASON] => None
+    [PAYMENTINFO_0_REASONCODE] => None
+    [PAYMENTINFO_0_PROTECTIONELIGIBILITY] => Eligible
+    [PAYMENTINFO_0_PROTECTIONELIGIBILITYTYPE] => ItemNotReceivedEligible,UnauthorizedPaymentEligible
+    [PAYMENTINFO_0_SELLERPAYPALACCOUNTID] => cabins@kootenaymountaineeringclub.ca
+    [PAYMENTINFO_0_SECUREMERCHANTACCOUNTID] => DPZSYWH6R42A2
+    [PAYMENTINFO_0_ERRORCODE] => 0
+    [PAYMENTINFO_0_ACK] => Success
+)
+
+
+Session:
+Array
+(
+    [PROCESS] => NEW1
+    [MembType] => Individual
+    [FirstName1] => Grant
+    [NickName1] => 
+    [LastName1] => Hume
+    [Email1] => gshume@gmail.com
+    [Phone1] => +1 (778) 889-4863
+    [name1_age] => 54
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [name2_age] => 0
+    [Addr1] => 4728 Bain Rd
+    [Addr2] => 
+    [City] => Beasley
+    [Prov] => BC
+    [Postal] => V0G2G2
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+    [MembID] => 231803
+    [membNames] => Grant Hume
+    [paydescription] => KMC Individual membership for $38
+    [Payment_Amount] => 38
+    [currencyCodeType] => CAD
+    [nvpReqArray] => Array
+        (
+            [METHOD] => DoExpressCheckoutPayment
+            [VERSION] => 109.0
+            [PWD] => DEHAUSD29WJDQU72
+            [USER] => cabins_api1.kootenaymountaineering.bc.ca
+            [SIGNATURE] => AFcWxV21C7fd0v3bYYYRCpSSRl31AxVmhWt3bMtf7fmWI2Yy7O.utl8n
+            [TOKEN] => EC-3F446861H3299413R
+            [PAYERID] => 52ZKUR568D8K8
+            [IPADDRESS] => kootenaymountaineeringclub.ca
+            [PAYMENTREQUEST_0_AMT] => 38
+            [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+            [BUTTONSOURCE] => PP-DemoPortal-EC-IC-php
+        )
+
+    [TOKEN] => EC-3F446861H3299413R
+    [payer_id] => 52ZKUR568D8K8
+    [MembEmailTo] => gshume@gmail.com
+)
+

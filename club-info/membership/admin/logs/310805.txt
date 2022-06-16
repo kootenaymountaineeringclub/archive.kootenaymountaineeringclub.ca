@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Couple
+    [FirstName1] => Test
+    [NickName1] => 
+    [LastName1] => One
+    [Email1] => goober@peas.com
+    [Phone1] => 
+    [FirstName2] => Two
+    [NickName2] => 
+    [LastName2] => Test
+    [Email2] => two@Last.ca
+    [Phone2] => 
+    [Addr1] => 
+    [Addr2] => 
+    [City] => Nelson
+    [Prov] => 
+    [Postal] => 
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 61.00
+    [Newsletter] => 0
+)
+

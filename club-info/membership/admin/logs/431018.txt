@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Gayle
+    [NickName1] => 
+    [LastName1] => Buchner
+    [Email1] => gayelee@columbiawireless.ca
+    [Phone1] => 250-226-7655
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => Box 96
+    [Addr2] => 
+    [City] => Winlaw
+    [Prov] => BC
+    [Postal] => V0G 2J0
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

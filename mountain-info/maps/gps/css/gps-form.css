@@ -1,0 +1,56 @@
+#route-form {
+	width: 100%;
+	font-size: small;
+}
+
+#route-form .form-question {
+	width: 100%
+	: 80px;
+}
+
+#route-form .question-explain {
+	position: relative;
+	float: left;
+	text-align: right;
+	vertical-align: middle;
+	width: 30%;
+	padding: 4px 10px 0 0;
+	margin: 0 4px 0 0;
+}
+
+#route-form .question-answer {
+	position: relative;
+	float: right;
+	width: 66%;
+	margin: 0;
+}
+
+#route-form .section-title {
+	width: 100%;
+	font-size: medium;
+	text-align: center;
+	vertical-align: middle;
+	clear: both;
+	margin: 10px;
+	background-color:  #dcdcdc
+}
+
+#route-form .file-button {
+	position: relative;
+	float: left;
+	text-align: left;
+	vertical-align: middle;
+	width: 35%;
+	text-align: center;
+	vertical-align: middle;
+	padding: 4px 0 0 10px;
+	margin: 0 4px 0 0;
+}
+
+#route-form .file-note {
+	position: relative;
+	float: right;
+	vertical-align: top;
+	width: 60%;
+	margin: 0 0 10px 0;
+}

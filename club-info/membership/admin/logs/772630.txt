@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Jim
+    [NickName1] => 
+    [LastName1] => King
+    [Email1] => jim.king@raymondjames.ca
+    [Phone1] => 403-807-0348
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 1515 Ward Street
+    [Addr2] => 
+    [City] => Nelson
+    [Prov] => BC
+    [Postal] => V1L 1V6
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

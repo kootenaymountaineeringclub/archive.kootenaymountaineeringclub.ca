@@ -1,0 +1,142 @@
+Get Express Checkout:
+Array
+(
+    [TOKEN] => EC-19050800DH164510W
+    [BILLINGAGREEMENTACCEPTEDSTATUS] => 0
+    [CHECKOUTSTATUS] => PaymentActionNotInitiated
+    [TIMESTAMP] => 2018-06-21T20:09:25Z
+    [CORRELATIONID] => cfe7ce14165b5
+    [ACK] => Success
+    [VERSION] => 109.0
+    [BUILD] => 47201799
+    [EMAIL] => rfjeldseth@gmail.com
+    [PAYERID] => U4FZE5WK5TDHS
+    [PAYERSTATUS] => verified
+    [FIRSTNAME] => randi
+    [LASTNAME] => fjeldseth
+    [COUNTRYCODE] => CA
+    [SHIPTONAME] => Randi Fjeldseth
+    [SHIPTOSTREET] => 4080 Little Slocan South Rd
+    [SHIPTOCITY] => WINLAW
+    [SHIPTOSTATE] => BC
+    [SHIPTOZIP] => V0G 2J0
+    [SHIPTOCOUNTRYCODE] => CA
+    [SHIPTOCOUNTRYNAME] => Canada
+    [ADDRESSSTATUS] => Confirmed
+    [CURRENCYCODE] => CAD
+    [AMT] => 38.00
+    [ITEMAMT] => 38.00
+    [SHIPPINGAMT] => 0.00
+    [HANDLINGAMT] => 0.00
+    [TAXAMT] => 0.00
+    [NOTIFYURL] => http://www.kootenaymountaineering.bc.ca/booking/IPN_Post.php
+    [INSURANCEAMT] => 0.00
+    [SHIPDISCAMT] => 0.00
+    [INSURANCEOPTIONOFFERED] => false
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 38.00
+    [PAYMENTREQUEST_0_ITEMAMT] => 38.00
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0.00
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0.00
+    [PAYMENTREQUEST_0_TAXAMT] => 0.00
+    [PAYMENTREQUEST_0_NOTIFYURL] => http://www.kootenaymountaineering.bc.ca/booking/IPN_Post.php
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0.00
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0.00
+    [PAYMENTREQUEST_0_SELLERPAYPALACCOUNTID] => cabins@kootenaymountaineeringclub.ca
+    [PAYMENTREQUEST_0_INSURANCEOPTIONOFFERED] => false
+    [PAYMENTREQUEST_0_SHIPTONAME] => Randi Fjeldseth
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 4080 Little Slocan South Rd
+    [PAYMENTREQUEST_0_SHIPTOCITY] => WINLAW
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => BC
+    [PAYMENTREQUEST_0_SHIPTOZIP] => V0G 2J0
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => CA
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYNAME] => Canada
+    [PAYMENTREQUEST_0_ADDRESSSTATUS] => Confirmed
+    [PAYMENTREQUESTINFO_0_ERRORCODE] => 0
+)
+
+
+Do Express Checkout:
+Array
+(
+    [TOKEN] => EC-19050800DH164510W
+    [SUCCESSPAGEREDIRECTREQUESTED] => false
+    [TIMESTAMP] => 2018-06-21T20:09:26Z
+    [CORRELATIONID] => 7109e8457076a
+    [ACK] => Success
+    [VERSION] => 109.0
+    [BUILD] => 47201799
+    [INSURANCEOPTIONSELECTED] => false
+    [SHIPPINGOPTIONISDEFAULT] => false
+    [PAYMENTINFO_0_TRANSACTIONID] => 8JE21268AF002053R
+    [PAYMENTINFO_0_TRANSACTIONTYPE] => expresscheckout
+    [PAYMENTINFO_0_PAYMENTTYPE] => instant
+    [PAYMENTINFO_0_ORDERTIME] => 2018-06-21T20:09:26Z
+    [PAYMENTINFO_0_AMT] => 38.00
+    [PAYMENTINFO_0_FEEAMT] => 1.40
+    [PAYMENTINFO_0_TAXAMT] => 0.00
+    [PAYMENTINFO_0_CURRENCYCODE] => CAD
+    [PAYMENTINFO_0_PAYMENTSTATUS] => Completed
+    [PAYMENTINFO_0_PENDINGREASON] => None
+    [PAYMENTINFO_0_REASONCODE] => None
+    [PAYMENTINFO_0_PROTECTIONELIGIBILITY] => Eligible
+    [PAYMENTINFO_0_PROTECTIONELIGIBILITYTYPE] => ItemNotReceivedEligible,UnauthorizedPaymentEligible
+    [PAYMENTINFO_0_SELLERPAYPALACCOUNTID] => cabins@kootenaymountaineeringclub.ca
+    [PAYMENTINFO_0_SECUREMERCHANTACCOUNTID] => DPZSYWH6R42A2
+    [PAYMENTINFO_0_ERRORCODE] => 0
+    [PAYMENTINFO_0_ACK] => Success
+)
+
+
+Session:
+Array
+(
+    [PROCESS] => NEW1
+    [MembType] => Individual
+    [FirstName1] => Randi
+    [NickName1] => 
+    [LastName1] => Fjeldseth
+    [Email1] => rfjeldseth@gmail.com
+    [Phone1] => (250)226-7010
+    [name1_age] => 54
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [name2_age] => 0
+    [Addr1] => 4080 Little Slocan South Road
+    [Addr2] => 
+    [City] => Vallican
+    [Prov] => BC
+    [Postal] => V0G2J0
+    [private] => 0
+    [fmcbc] => 1
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+    [MembID] => 123962
+    [membNames] => Randi Fjeldseth
+    [paydescription] => KMC Individual membership for $38
+    [Payment_Amount] => 38
+    [currencyCodeType] => CAD
+    [nvpReqArray] => Array
+        (
+            [METHOD] => DoExpressCheckoutPayment
+            [VERSION] => 109.0
+            [PWD] => DEHAUSD29WJDQU72
+            [USER] => cabins_api1.kootenaymountaineering.bc.ca
+            [SIGNATURE] => AFcWxV21C7fd0v3bYYYRCpSSRl31AxVmhWt3bMtf7fmWI2Yy7O.utl8n
+            [TOKEN] => EC-19050800DH164510W
+            [PAYERID] => U4FZE5WK5TDHS
+            [IPADDRESS] => kootenaymountaineeringclub.ca
+            [PAYMENTREQUEST_0_AMT] => 38
+            [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+            [BUTTONSOURCE] => PP-DemoPortal-EC-IC-php
+        )
+
+    [TOKEN] => EC-19050800DH164510W
+    [payer_id] => U4FZE5WK5TDHS
+    [MembEmailTo] => rfjeldseth@gmail.com
+)
+

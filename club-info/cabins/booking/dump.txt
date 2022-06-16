@@ -1,0 +1,27 @@
+
+ack = success
+Array
+(
+    [TOKEN] => EC-02W298780Y382150M
+    [TIMESTAMP] => 2018-07-25T22:33:38Z
+    [CORRELATIONID] => fc47446de24d7
+    [ACK] => Success
+    [VERSION] => 109.0
+    [BUILD] => 47733884
+)
+
+Post:
+Array
+(
+    [email] => timclint@gmail.com
+    [NOSHIPPING] => 1
+    [PAYMENTREQUEST_0_AMT] => 30
+    [PAYMENTREQUEST_0_DESC] => Grassy+on+25+Dec+2018+for+1+person.+Steed+on+26+Dec+2018+for+1+person.+
+    [PAYMENTREQUEST_0_CUSTOM] => 367k5ue0ufcsr3bk3svgfged53
+    [CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_PAYMENTACTION] => Sale
+    [currencyCodeType] => CAD
+    [SOLUTIONTYPE] => Sole
+)
+
+-----

@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Jayne
+    [NickName1] => 
+    [LastName1] => Doxtater
+    [Email1] => jayne@spacaldera.ca
+    [Phone1] => 250-921-8888
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 1911 Union Avenue
+    [Addr2] => Box 1952
+    [City] => Rossland
+    [Prov] => BC
+    [Postal] => V0G1Y0
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

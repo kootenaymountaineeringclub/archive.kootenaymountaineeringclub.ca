@@ -1,0 +1,26 @@
+Session:
+Array
+(
+    [MembType] => Couple
+    [FirstName1] => Rob
+    [NickName1] => 
+    [LastName1] => Haggar
+    [Email1] => robhaggar@gmail.com
+    [Phone1] =>  250-229-4200
+    [FirstName2] => Wemdy
+    [NickName2] => 
+    [LastName2] => Haggar
+    [SharedEmail] => 1
+    [Email2] => robhaggar@gmail.com
+    [Phone2] =>  250-229-4200
+    [Addr1] => 6192 Redfish Rd
+    [Addr2] => 
+    [City] => Nelson
+    [Prov] => BC
+    [Postal] => V1L6M9
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 61.00
+    [Newsletter] => 0
+)
+

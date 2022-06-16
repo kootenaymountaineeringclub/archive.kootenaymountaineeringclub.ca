@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Martine
+    [NickName1] => 
+    [LastName1] => Oosting
+    [Email1] => m.i.oosting@gmail.com
+    [Phone1] => 250-226-7464
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 3945 Indian Point Road,
+    [Addr2] => 
+    [City] => Winlaw,
+    [Prov] => BC
+    [Postal] => V0G2J0
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

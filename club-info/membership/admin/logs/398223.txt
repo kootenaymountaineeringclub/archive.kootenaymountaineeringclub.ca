@@ -1,0 +1,26 @@
+Session:
+Array
+(
+    [MembType] => Couple
+    [FirstName1] => Brent
+    [NickName1] => 
+    [LastName1] => Dorman
+    [Email1] => sharp_end@msn.com
+    [Phone1] => 250 362-5150
+    [FirstName2] => Valerie
+    [NickName2] => 
+    [LastName2] => Dorman
+    [SharedEmail] => 1
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => PO Box 2312
+    [Addr2] => 
+    [City] => 
+    [Prov] => 
+    [Postal] => 
+    [private] => 0
+    [Agreement] => xxx
+    [MembCost] => 61.00
+    [Newsletter] => 0
+)
+

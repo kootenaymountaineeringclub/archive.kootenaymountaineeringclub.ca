@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Couple
+    [FirstName1] => Nate
+    [NickName1] => 
+    [LastName1] => Brisco
+    [Email1] => ian@ijbris.com
+    [Phone1] => 204 292-2774
+    [FirstName2] => Luke
+    [NickName2] => 
+    [LastName2] => Bris
+    [Email2] => ian@igbris.com
+    [Phone2] => 204 292-2774
+    [Addr1] => 
+    [Addr2] => 
+    [City] => Salmo
+    [Prov] => BC
+    [Postal] => V0G 1Z0
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 61.00
+    [Newsletter] => 0
+)
+

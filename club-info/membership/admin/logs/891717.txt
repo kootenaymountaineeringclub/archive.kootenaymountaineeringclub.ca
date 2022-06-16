@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Bob
+    [NickName1] => 
+    [LastName1] => Dean
+    [Email1] => bdean@look.ca
+    [Phone1] => 250-352-6317
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 411 Second St
+    [Addr2] => 
+    [City] => Nelson
+    [Prov] => BC
+    [Postal] => V1L 2L4
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38.00
+    [Newsletter] => 0
+)
+

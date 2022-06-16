@@ -1,0 +1,142 @@
+Get Express Checkout:
+Array
+(
+    [TOKEN] => EC-8XW21656W63670537
+    [BILLINGAGREEMENTACCEPTEDSTATUS] => 0
+    [CHECKOUTSTATUS] => PaymentActionNotInitiated
+    [TIMESTAMP] => 2018-06-18T17:20:17Z
+    [CORRELATIONID] => 2a625fb891900
+    [ACK] => Success
+    [VERSION] => 109.0
+    [BUILD] => 47201799
+    [EMAIL] => tjgale0@gmail.com
+    [PAYERID] => SM85YT9BX3QD6
+    [PAYERSTATUS] => unverified
+    [FIRSTNAME] => Tyler
+    [LASTNAME] => Gale
+    [COUNTRYCODE] => CA
+    [SHIPTONAME] => Tyler Gale
+    [SHIPTOSTREET] => 3828 Aaron Rd.
+    [SHIPTOCITY] => Bonnington
+    [SHIPTOSTATE] => BC
+    [SHIPTOZIP] => V0G 2G3
+    [SHIPTOCOUNTRYCODE] => CA
+    [SHIPTOCOUNTRYNAME] => Canada
+    [ADDRESSSTATUS] => Confirmed
+    [CURRENCYCODE] => CAD
+    [AMT] => 38.00
+    [ITEMAMT] => 38.00
+    [SHIPPINGAMT] => 0.00
+    [HANDLINGAMT] => 0.00
+    [TAXAMT] => 0.00
+    [NOTIFYURL] => http://www.kootenaymountaineering.bc.ca/booking/IPN_Post.php
+    [INSURANCEAMT] => 0.00
+    [SHIPDISCAMT] => 0.00
+    [INSURANCEOPTIONOFFERED] => false
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 38.00
+    [PAYMENTREQUEST_0_ITEMAMT] => 38.00
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0.00
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0.00
+    [PAYMENTREQUEST_0_TAXAMT] => 0.00
+    [PAYMENTREQUEST_0_NOTIFYURL] => http://www.kootenaymountaineering.bc.ca/booking/IPN_Post.php
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0.00
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0.00
+    [PAYMENTREQUEST_0_SELLERPAYPALACCOUNTID] => cabins@kootenaymountaineeringclub.ca
+    [PAYMENTREQUEST_0_INSURANCEOPTIONOFFERED] => false
+    [PAYMENTREQUEST_0_SHIPTONAME] => Tyler Gale
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 3828 Aaron Rd.
+    [PAYMENTREQUEST_0_SHIPTOCITY] => Bonnington
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => BC
+    [PAYMENTREQUEST_0_SHIPTOZIP] => V0G 2G3
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => CA
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYNAME] => Canada
+    [PAYMENTREQUEST_0_ADDRESSSTATUS] => Confirmed
+    [PAYMENTREQUESTINFO_0_ERRORCODE] => 0
+)
+
+
+Do Express Checkout:
+Array
+(
+    [TOKEN] => EC-8XW21656W63670537
+    [SUCCESSPAGEREDIRECTREQUESTED] => false
+    [TIMESTAMP] => 2018-06-18T17:20:20Z
+    [CORRELATIONID] => 4066583912d5d
+    [ACK] => Success
+    [VERSION] => 109.0
+    [BUILD] => 47201799
+    [INSURANCEOPTIONSELECTED] => false
+    [SHIPPINGOPTIONISDEFAULT] => false
+    [PAYMENTINFO_0_TRANSACTIONID] => 4HU88372251769154
+    [PAYMENTINFO_0_RECEIPTID] => 3200730000680326
+    [PAYMENTINFO_0_TRANSACTIONTYPE] => expresscheckout
+    [PAYMENTINFO_0_PAYMENTTYPE] => instant
+    [PAYMENTINFO_0_ORDERTIME] => 2018-06-18T17:20:19Z
+    [PAYMENTINFO_0_AMT] => 38.00
+    [PAYMENTINFO_0_FEEAMT] => 1.40
+    [PAYMENTINFO_0_TAXAMT] => 0.00
+    [PAYMENTINFO_0_CURRENCYCODE] => CAD
+    [PAYMENTINFO_0_PAYMENTSTATUS] => Completed
+    [PAYMENTINFO_0_PENDINGREASON] => None
+    [PAYMENTINFO_0_REASONCODE] => None
+    [PAYMENTINFO_0_PROTECTIONELIGIBILITY] => Eligible
+    [PAYMENTINFO_0_PROTECTIONELIGIBILITYTYPE] => ItemNotReceivedEligible,UnauthorizedPaymentEligible
+    [PAYMENTINFO_0_SELLERPAYPALACCOUNTID] => cabins@kootenaymountaineeringclub.ca
+    [PAYMENTINFO_0_SECUREMERCHANTACCOUNTID] => DPZSYWH6R42A2
+    [PAYMENTINFO_0_ERRORCODE] => 0
+    [PAYMENTINFO_0_ACK] => Success
+)
+
+
+Session:
+Array
+(
+    [PROCESS] => NEW1
+    [MembType] => Individual
+    [FirstName1] => Tyler
+    [NickName1] => 
+    [LastName1] => Gale
+    [Email1] => tjgale0@gmail.com
+    [Phone1] => 6047540910
+    [name1_age] => 34
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [name2_age] => 0
+    [Addr1] => 3828 Aaron Rd.
+    [Addr2] => 
+    [City] => Bonnington
+    [Prov] => BC
+    [Postal] => V0G 2G3
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+    [MembID] => 694416
+    [membNames] => Tyler Gale
+    [paydescription] => KMC Individual membership for $38
+    [Payment_Amount] => 38
+    [currencyCodeType] => CAD
+    [nvpReqArray] => Array
+        (
+            [METHOD] => DoExpressCheckoutPayment
+            [VERSION] => 109.0
+            [PWD] => DEHAUSD29WJDQU72
+            [USER] => cabins_api1.kootenaymountaineering.bc.ca
+            [SIGNATURE] => AFcWxV21C7fd0v3bYYYRCpSSRl31AxVmhWt3bMtf7fmWI2Yy7O.utl8n
+            [TOKEN] => EC-8XW21656W63670537
+            [PAYERID] => SM85YT9BX3QD6
+            [IPADDRESS] => kootenaymountaineeringclub.ca
+            [PAYMENTREQUEST_0_AMT] => 38
+            [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+            [BUTTONSOURCE] => PP-DemoPortal-EC-IC-php
+        )
+
+    [TOKEN] => EC-8XW21656W63670537
+    [payer_id] => SM85YT9BX3QD6
+    [MembEmailTo] => tjgale0@gmail.com
+)
+

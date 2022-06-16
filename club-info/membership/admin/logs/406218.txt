@@ -1,0 +1,26 @@
+Session:
+Array
+(
+    [MembType] => Couple
+    [FirstName1] => Lena
+    [NickName1] => 
+    [LastName1] => Wickman
+    [Email1] => loktav@uniserve.com
+    [Phone1] => 250-352-2407
+    [FirstName2] => Sylvain
+    [NickName2] => 
+    [LastName2] => Sylvain Ratthe
+    [SharedEmail] => 1
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 615 Second Street
+    [Addr2] => 
+    [City] => Nelson
+    [Prov] => BC
+    [Postal] => V1L2L7
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 61.00
+    [Newsletter] => 0
+)
+

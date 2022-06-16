@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!--#include virtual=/includes/head-first.incl.html -->
+
+		<title>KMC Mountain Slideshow: Bonnington Traverse Cabins</title>
+	
+<!--#include virtual=/includes/head-2nd.incl.html -->
+
+<link rel="stylesheet" type="text/css" href="../css/thumblie-styles.css" />
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script type="text/javascript" src="../js/thumblie.js"></script>
+<script>
+var exibidThumblie;
+jQuery(function(){
+	exibidThumblie = $xb("#exibid").xbThumblie({showCaptions: 1, showControls: 1, showInfo: 1});
+});
+</script>
+
+</head>
+<body onload="Init()">
+
+<div id="master">
+
+	<header>
+		<!--#include virtual=/club-info/includes/page-header-club.incl.html -->
+		<!--#include virtual=/includes/header-contents.incl.html -->
+	</header>
+
+	<div id="content">
+
+		<!--#include virtual=/club-info/includes/club-trips.incl.html -->		
+
+		<section> <!--  id="section-left"> -->
+		
+			<h2>The Cabins on the Bonnington Traverse</h2>
+
+<div id="exibid">
+	<ul class="xb-thumblie_thumbs">
+		<li>
+			<a href="image/grassyhut.jpg">
+				<img src="image/grassyhut_thumb.jpg" title="Grassy Hut in winter" />
+			</a>
+		</li>
+		<li>
+			<a href="image/grassy.jpg">
+				<img src="image/grassy_thumb.jpg" title="Grassy Hut" />
+			</a>
+		</li>
+		<li>
+			<a href="image/steedhut.jpg">
+				<img src="image/steedhut_thumb.jpg" title="Steed Hut" />
+			</a>
+		</li>
+		<li>
+			<a href="image/copperhut.jpg">
+				<img src="image/copperhut_thumb.jpg" title="Copper Mountain Hut" />
+			</a>
+		</li>
+		<li>
+			<a href="image/huckhut.jpg">
+				<img src="image/huckhut_thumb.jpg" title="Huckleberry Hut" />
+			</a>
+		</li>
+		<li>
+			<a href="image/huckleberry.jpg">
+				<img src="image/huckleberry_thumb.jpg" title="Huckleberry Hut in winter" />
+			</a>
+		</li>
+	</ul>
+</div>
+
+	<p class="centered">Return to the <a href="../index.html">Slideshow Table of Contents</a></p>
+		</section>
+	</div> <!-- end content -->
+		
+	<footer>
+
+		<!--#include virtual=/club-info/includes/club-trips.incl.html -->
+		<!--#include virtual=/includes/kics-blurb.incl.html -->
+
+	</footer>
+
+</div> <!-- end master -->
+
+</body>
+</html>

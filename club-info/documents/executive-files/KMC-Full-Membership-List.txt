@@ -1,0 +1,461 @@
+KMC Members: 2019-08-30
+
+Year	DistinctName	MembershipID	MembershipType	Email	Phone	PrivateName	StreetAddress	StreetAddress2	City	Province	PostalCode	KMCNewsletter	FMCBCNewsletter
+2019	Achilles, Sheila	272886	Couple	sja7880@gmail.com	306-221-1983	0	1316 Jeffs Avenue		Nelson				0
+2019	Ackerman, Eric	194495	Couple	elackerma@yahoo.com	250 364-5669	0	1367 3rd Ave		Trail				0
+2019	Aitken, Gerrit	877777	Individual	gerrit-aitken@hotmail.ca	2502313140	0	Gerrit	1990 Daniel st 	Trail	BC	V1R 4G9		1
+2019	Alcos, Carlo	916362	Couple	carlo@vagabonderz.com	2505057727	0	709 Hoover Street		Nelson	BC	V1L4X3		0
+2019	Allcock, Amy	332508	Individual	amy.allcock@gmail.com	778-962-0236	0	504 Seventh St		Nelson				0
+2019	Allen, Paul 	925755	Individual	laytham@shaw.ca	250-362-5332	0	Box 1670		Rossland, 				0
+2019	Allis, Linda 	641752	Couple	l.allis@me.com	4036302486	0	PO Box 2338		Rossland	BC	V0G 1Y0		0
+2019	Apel, George	112877	Couple	gapel@telus.net	250-365-7653	0	Box 3412		Castlegar				0
+2019	Apel, Kirsten	112877	Couple	kapel@telus.net	250-365-7653	0	Box 3412		Castlegar				0
+2019	Arcovio, John 	853780	Couple	john.arcovio@hotmail.com	587-999-9895	0	2836 Lower Six Mile Road		Nelson	BC	V1L 6L6		0
+2019	Arishenkoff, Leon	537358	Individual	leonarishenkoff@shaw.ca	250-505-9145	0	#31- 1220 Mill Street		Nelson				1
+2019	Arnesen, Randine	479362	Couple	randine@telus.net	250-352-2910	0	515 Fourth St.		Nelson				0
+2019	Ashman, Dan	758631	Individual	ashmand@telus.net		0			Trail				0
+2019	Baerg, Kelsey	128613	Individual	kelsey.baerg@gmail.com	250 509-2399	0	108 High St.		Nelson	BC	V1lZ4 3		0
+2019	Baillie, Jenny	918453	Individual	jennyb8@telus.net	2503625519	0	Box 1684		Rossland	BC	V0G 1Y0		0
+2019	Bak, Leta	970368	Individual	rootsdownstudio@gmail.com	2504446611	0	1345 66th Ave		Grand Forks				0
+2019	Baker, Mary	272840	Individual	mmbaker@telus.net	250-352-6860	0	23 - 1106 Seventh Street		Nelson				0
+2019	Bakke, Daniel	808730	Individual	danielbakke@gmail.com	6393176062	0			Nelson				0
+2019	Balahura, Marissa	626008	Couple	marissabalahura@gmail.com	2507205934	0	1008 Moraine Rd		Castlegar 	BC	V1N 4R5		0
+2019	Baldwin, Brian	329750	Couple	t4baldwin@hotmail.com		0	P.O. Box 942		Fruitvale				0
+2019	Baldwin, Tina	329750	Couple	t4baldwin@hotmail.com	250-231-4674	0	P.O. Box 942		Fruitvale				0
+2019	Balkenhol, Kurt	620747	Couple	trudybalkenhol@gmail.com	250-801-9027	0	610 Wasson Street		Nelson 	BC	V1L3G7 		0
+2019	Balkenhol, Trudy	620747	Couple	trudybalkenhol@gmail.com	250-861-9027	0	610 Wasson Street		Nelson 	BC	V1L3G7 		0
+2019	Ballard, Justin	588817	Individual	justin.j.ballard@icloud.com	778-689-5757	0	211 lakeview 		Castlegar 				1
+2019	baribeau, anne-marie	684225	Couple	ambaribeau@gmail.com	778-214-4564	0	311 houston street		nelson	bc	V1L5H3		0
+2019	Bartsoff, Mike	368712	Individual	mikebartsoff@yahoo.ca	2505129539	0	81 Forsythia Drive		Fruitvale	BC	V0G 1L1		1
+2019	Bastedo, Jamie	968335	Couple	cygnus@theedge.ca	8678734782	0	12-3260 Heddle Road		Nelson	BC	V1L 6M3		0
+2019	Bates, Ross	617185	Individual	dotross@shaw.ca	250 3042534	0	1463 Emerald Crescent		Castlegar				0
+2019	Beauchamp, Helen	154778	Individual	helenbeauchamp5@gmail.com	4167686140	0	403-710 Vernon st 		Nelson	BC	V1L4G2		0
+2019	Beaudry, Garry	817501	Individual	garry.beaudry@gmail.com	2505516064	0	624 Mill Street		Nelson				0
+2019	Beaulieu, Charla	749370	Couple	charlabeaulieu@gmail.com	250 777 3404	0	206 Delbruck Street		Nelson				0
+2019	Belczyk, Felix	131383	Couple	felix.belczyk@gmail.com	2503652101	0	2301 10th Ave		Castlegar				0
+2019	Belli-Bivar, Julian	509571	Individual	jbellibivar@gmail.com	2505517059	0	6882 Harrop-Procter Rd		Nelson	BC	V1L6R2		1
+2019	Bennett, Murray	960812	Individual	murben01@hotmail.com	250-365-2600	0	3607 Broadwater Road		Castlegar				0
+2019	Benoit, Greg	416572	Couple	gregwbenoit@gmail.com	613-254-5814	0	4208 Granger Rd		Nelson	BC	V1L6T1		0
+2019	Benoit, Janice	416572	Couple	janicelbenoit@gmail.com	613-254-5814	0	4208 Granger Rd		Nelson	BC	V1L6T1		0
+2019	Berkey, Peter	182500	Individual	peterberkey51@gmail.com	6073237539	0	General Delivery		New Denver	BC	V0G 1S0		0
+2019	Bermel, Neil	452557	Couple	nbermel@telus.net	2506082944	0	3729 powell Rd 		Castlegar 				0
+2019	Best, Phil	356184	Individual	philbest32@gmail.com	250-354-0323	0	6-1004 Davies St		Nelson				0
+2019	Beynon, Ed	929190	Couple	ednhazelb@uniserve.com	250 365 7806	0	1422 Highland Drive		Castlegar				0
+2019	Beynon, Hazel	929190	Couple	ednhazelb@uniserve.com	2503657806	0	1422 Highland Drive		Castlegar				0
+2019	Bickerton, Larry	643396	Individual	lebickerton@gmail.com	3036184712	0	960 Highway 3A		Nelson				0
+2019	Birston, Shelley	981097	Individual	sbirston@shaw.ca	778-996-6145	0	1308 Trevor st		Nelson				0
+2019	Blackshaw, Nicky	547475	Individual	nickyt@shaw.ca	2505058057	0	Box 178		Slocan	BC	V0G 2C0		0
+2019	Blakley, Morgan	632068	Individual	moblakley@gmail.com	2503426904	0	1309 7th Ave	Box 639	Invermere	BC	V0A 1K0		1
+2019	Boag, David 	714629	Individual	dboag@uvic.ca	2508888402	0	6-974 Sutcliffe Rd.		VICTORIA				0
+2019	Booker, Jessie	543566	Individual	jessie.j.booker@gmail.com		0			Nelson				0
+2019	Bourke, Krista	967184	Individual	kristabourke@gmail.com	250-505-3942	0	721 Stromme Lane		Nelson				0
+2019	Bouvet-Boisclair, Gabriel 	471809	Individual	gab.bouvet@gmail.com		0	517 Carbonate St	Apt 2	Nelson	BC	V1L 4P4		0
+2019	Bowers, Vivien	231923	Couple	vbowers@shaw.ca	250-825-4392	0	3093 Heddle Road		Nelson				0
+2019	Bozzi, Sonia	253518	Individual	sbozzi@me.com	604 313-0126	0	710 Mill St		Nelson				0
+2019	Brackett, David	379001	Individual	dbrackett@gmail.com	250-777-1306	0	1810 Ridgewood Road		Nelson				0
+2019	Bradley, Linda	721905	Individual	linda1bradley@yahoo.ca	250-359-5989	0	4303 Chatfield Rd		Crescent Valley				0
+2019	Bradley, Mike	626979	Individual	mike_w_bradley@yahoo.com	5094652531	0	322 E. Shore Rd		Nine Mile Falls	WA	99026		0
+2019	Braumandl, Tom	595098	Couple	braumandl.tom@gmail.com	250551-0488	0	P.O. Box 143 	6286 Poplar Rd.	Wasa				0
+2019	Bredl, Richard	805191	Individual	rossland_pow@yahoo.ca	250 512-7547	0	PO Box 1576	1627 Leroy Ave	Rossland				1
+2019	Brewster, Michael	933994	Couple	mikebrewster44@icloud.com		0			Nelson				0
+2019	Brigl, Gundula	622351	Couple	gbrigl@telus.net	250-551-5599	0	1440 Knox Road		Nelson				0
+2019	Brinias, Jonathan	384500	Individual	j.brinias@gmail.com	2505057514	0	4-702 Fourth Street		Nelson	BC	V1L2S8		1
+2019	Bris, Luke	994643	Couple	ian@igbris.com	204 292-2774	0			Salmo	BC	V0G 1Z0		0
+2019	Brisco, Ian 	994643	Couple	ian@ijbris.com	204 292-2774	0			Salmo	BC	V0G 1Z0		0
+2019	Brisco, Melanie	994643	Couple	melyn8791@gmail.com	204 292-2774	0			Salmo	BC	V0G 1Z0		0
+2019	Brisco, Nate	994643	Couple	ian@ijbris.com	204 292-2774	0			Salmo	BC	V0G 1Z0		0
+2019	Brousse, Betty	215779	Couple	babrousse@sympatico.ca	2508254434	0	3447 Hwy 3A		Nelson				0
+2019	Brynne, Abra	749370	Couple	abrabrynne@gmail.com	250 352 5342	0	206 Delbruck Street		Nelson				0
+2019	Buchner, Gayle 	500503	Individual	gayelee@columbiawireless.ca	250-226-7655	0	Box 96		Winlaw	BC	V0G 2J0		0
+2019	Budyk, Ken	468265	Couple	kbudyk@gmail.com	204-391-6261	0	2212 Niakwa Rd		Springfield	MB	R2J4E9		0
+2019	Budyk, Shauna 	468265	Couple	sbudyk@gmail.com	204-807-3005	0	2212 Niakwa Rd		Springfield	MB	R2J4E9		0
+2019	Bullerwell, Tom	180398	Individual	sonrise_ca@yahoo.com		0			Trail				0
+2019	Burton, Claudette	629915	Couple	kuantam5@netideacom	250 229-5462	0	2271 Hamilton Dr		Queens Bay	BC	V1l7E7		0
+2019	Burton, John	629915	Couple		250 229-5462	0	2271 Hamilton Dr		Queens Bay	BC	V1l7E7		0
+2019	Cameron, Glenn	559569	Individual	gcameron@vsb.bc.ca	604-988-7507	0	1147 Ross Road		North Vancouver				0
+2019	Campbell, Kelly	661090	Individual	kelcamp@telus.net	250 882 8514	0	317  3rd  Ave.		Castlegar	BC	V1N 1X9		1
+2019	Cannon, Dennis	275160	Individual	dgcannon3@shaw.ca	250-505-3356	0	Box 173		Nelson				0
+2019	Carter, Cameron	460456	Individual	cameron.carter@lightspeed.ca	250-551-1556	0	1115 Latimer Street		Nelson				0
+2019	Cartwright, Yvonne	452557	Couple	yvonne.humpy@live.com	2503568469	0	3729 powell Rd 		Castlegar 				0
+2019	Carver, Martin	547671	Individual	martin@netidea.com	2503547563	0	718 Hoover Street		Nelson				0
+2019	Castaignede, Francois-Gael	487906	Couple	fgcastaig@gmail.com	5146626940	0	757-B prairie rd		Castlegar		V1N 4K6		0
+2019	Charlesworth, Kim	279685	Individual	kimch.nelson@gmail.com	250 551 5920	0	519 Third St		Nelson	BC	V1L 2P7		0
+2019	Chart, Chris	138871	Couple	chrischart5@hotmail.com	2505512999	0	616 Railway st		Nelson				0
+2019	Chobotar, Stefan	449434	Individual	stefanchobotar@gmail.com	6047094527	0			Nelson				0
+2019	Cigala-Fulgosi, Elena	724004	Individual	ecigalafulgosi@gmail.com		0	416-710 Vernon Street		Nelson				0
+2019	Cillis, Laura	983862	Individual	lcillis@redfishcalgary.com	403-813-1478	0	4119 Garrison Blvd SW		Calgary	AB	T2T 6G2		0
+2019	Clark, Carrie	916362	Couple	kootenaycarrie@gmail.com	2503544993	0	709 Hoover Street		Nelson	BC	V1L4X3		0
+2019	Clark, Doug	937685	Couple	dsc49@hotmail.com	250-365-3036	0	2162 Crestview Crescent	Castlegar BC Canada	Castlegar	BC	V1N3B3		0
+2019	Clark, Linda	937685	Couple	linder_36@hotmail.com	2503653036	0	2162 Crestview Crescent	Castlegar BC Canada	Castlegar	BC	V1N3B3		0
+2019	Clinton, Tim	833291	Individual	tim@timclinton.ca	250-551-3762	0			Nelson				0
+2019	Cochrane, Joanna	348059	Individual	joannacochrane@icloud.com	2508254444	0	2738 Lower Six Mile Road 		Nelson	BC	V1L6L5		0
+2019	Cook, Jennifer	293769	Individual	jgcook@telus.net	250-362-0029	0	P.O. Box 1441		Rossland				0
+2019	Cooles, Brian	541368	Couple	bcooles@hotmail.com	250-551-4555	0	111 Houston st.		Nelson				0
+2019	Cowan, Chris	516467	Individual	bcweatherman@gmail.com	250 687 0523	0	3308 3rd Ave		Castlegar				0
+2019	Cram, Chuck	811362	Individual	chuck.cram@lightspeed.ca	250.512.7444 	0	Box 665		Rossland	BC	V0G 1Y0		0
+2019	Crombie, Merle	250760	Individual	mertle87@gmail.com	778-840-1333	0	51 103 Ave		Kimberley	BC	V1A1B1		1
+2019	Cromp, Andree-Anne 	487906	Couple	aacromp@gmail.com	5147939025	0	757-B prairie rd		Castlegar		V1N 4K6		0
+2019	Cunningham, David	318692	Individual	joandavid@shaw.ca	250 352 7434	0	610 Third St.		Nelson	BC	V1L 2P9		0
+2019	Curry, Gail	123402	Individual	curryg@shaw.ca	778-257-5356	0	6-3260 Heddle Road		Nelson				0
+2019	Daoust, Michelle 	631876	Couple	mgdaoust@yahoo.ca	250-245-3457	0	Box 2163		Rossland	BC	V0G 1Y0		0
+2019	Deane, Gillian	535773	Couple	kdeane@shaw.ca	250 368-1876	0	PO Box 701	1835 Butte Street	Rossland	BC	V0G 1Y0		0
+2019	Deane, Kim	535773	Couple	kdeane@shaw.ca		0	PO Box 701	1835 Butte Street	Rossland	BC	V0G 1Y0		0
+2019	DeJong, Tara	506789	Individual	dejongs@telus.net	12502311460	0	175 Oxford Road		Trail				0
+2019	Derby, Dan	366571	Individual	danieljderby@gmail.com	2503641955	0	Dan Derby	7201 Devito Drive	Trail				0
+2019	Derfel , Ari	631078	Individual	ariderfel@gmail.com	2507777272	0	Latimer Street		Nelson	BC	v1l4v2		0
+2019	Doell, Larry	310091	Couple	cameradoell@gmail.com	250-362-5522	0	Box 1419		Rossland				0
+2019	Dorman, Brent	398223	Couple	sharp_end@msn.com	250 362-5150	0	PO Box 2312		Rossland	BC	V0G1Y0		0
+2019	Dorman, Valerie	398223	Couple	sharp_end@msn.com		0	PO Box 2312		Rossland	BC	V0G1Y0		0
+2019	dowler, paul	802545	Individual	kpdowler@msn.com	3852154072	0	1112 N 1100 W		farmington	ut	84025		0
+2019	Droste, Patrick	761086	Individual	patdroste@gmail.com	7785874333	0	710 Feller Road		Nelson	BC	V1L6P4		0
+2019	Duncan, Merriene	379784	Individual	telcan66.wild5@shaw.ca	250-825-4389	0	1551 Nasookin Rd		Nelson				0
+2019	Dunham, Clayton 	121104	Individual	screebasher@gmail.com	250-305-6062	0	1060 Reclamation Rd		Creston	BC	V0B1G7		0
+2019	Ekvall, Adam	889631	Individual	a.c.ekvall@gmail.com	5879976975	0	818 Mill Street		Nelson	BC	V1L4S7		0
+2019	Ellis-Vye, Sarah	397044	Individual	sellisvye@hotmail.com	250 505-6640	0	 244 High St		 Nelson, 				0
+2019	EMERY, Bonnie	771664	Couple	emhuny@gmail.com	403 704 3205	0	11=3260 Heddle road		Nelson	bc	V1L 6M3		0
+2019	EMERY, Chester	771664	Couple	emhuny@gmail.com		0	11=3260 Heddle road		Nelson	bc	V1L 6M3		0
+2019	England, Sandra	101641	Individual	englandsandra@hotmail.com	250-352-3117	0	1921 Kootenay St		Nelson				0
+2019	Enns, Ingrid	330508	Couple	ingridenns@hotmail.com	778-460-3341	0	3341 Southridge Drive		Castlegar				0
+2019	Epton , Richard 	373424	Individual	contraband246@gmail.com		0	311-710 Vernon St		Nelson 	BC	V1L4G2 		0
+2019	Etter, Alison	681282	Individual	alison.s.etter@gmail.com	604-928-0531	0	Alison Etter	PO Box 91, Station Main	Nelson	BC	V1L 5P7		0
+2019	Evans, Judy	489137	Couple	judee3@shaw.ca	250-505-7868	0	P.O. Box 1496		Rossland	BC	V0G1Y0		0
+2019	Everton, Nicola	509345	Individual	evertonnicola@gmail.com	250 520-0444	0	2105 Falls Street		Nelson	BC	V1L 1K5		0
+2019	Fanjoy, Emilee	633662	Couple	efanjoy@telus.net	250.352.9874	0	417 Fourth Street		Nelson				0
+2019	Fearing, Judith 	641164	Individual	judith.fearing@gmail.com	250-551-4456	0	1123 Observatory St		Nelson	BC	V1L 2J3		0
+2019	Fjeldseth, Randi	345880	Individual	rfjeldseth@gmail.com	250.226.7010	0	4080 Little Slocan South Road		Winlaw	bc	V0G2J0		0
+2019	Flood, Jeff	214519	Individual	jeff.flood.56@gmail.com	2503543656	0	PO Box 373		Nelson				0
+2019	Flynn, Michelle	418535	Individual	Michelle.flynn@live.ca	705-477-4685 	0			Nelson				0
+2019	Fodor, Cindy	457457	Individual	cinfry50@gmail.com	250-304-9760	0	C. Fodor	2526 9th Ave.	Castlegar	BC	V1N 2Y8		0
+2019	Fodor, Frank	754419	Individual	frankjfodor@hotmail.com	250-365-5358	0	2526 9th Ave		Castlegar				0
+2019	Foulger, Helen	128557	Couple	helenfou@gmail.com	2503526164	0	4664 Carlson Road		Nelson				0
+2019	Foulger, RIck	128557	Couple	helenfou@gmail.com	2503526164	0	4664 Carlson Road		Nelson				0
+2019	Fuller, Sandra	346391	Individual	slfuller2860@gmail.com	250 354-0354	0	1 - 1106 Seventh St		Nelson				0
+2019	Galbraith , Fiona	629224	Individual	fiona.galbraith@gmail.com	250-354-7391	0	2110 Fort Sheppard Drive		Nelson	BC	V1L 5Z8		0
+2019	Gerein, Audrey	310091	Couple	binoreo@live.ca	250-362-5522	0	Box 1419		Rossland				0
+2019	Gerrits, Debbie	315302	Individual	dagerrits@shaw.ca	2504948897	0	#7 - 1004 Davies Street		Nelson				0
+2019	Gibson, Rohanna	644336	Individual	rohanna.gibson@gmail.com	2509087270	0	235 Burdett St		Kimberley	BC	V1A1W2		0
+2019	Gilbert, Janis	610225	Individual	janisg522@gmail.com		0			Nelson				0
+2019	Gladwin, Kaesy	507989	Couple	kaesy@mac.com	7053512601	0	PO Box 2052		Rossland				0
+2019	goodier, jamie	684225	Couple	jamiegoodier@yahoo.com	604-886-0871	0	311 houston street		nelson	bc	V1L5H3		0
+2019	Grady, Michael	484228	Individual	mgrady437@gmail.com	2505057627	0	2808 5th ave cas		Castlegar	bc	V1N 2T8		0
+2019	Green, Kathleen	563931	Individual	kathleeng84@gmail.com	250-231-9735	0	6 - 3280 Laburnum Drive		Trail	BC	V1R 2S7		0
+2019	gregory, karina	249737	Individual	karina@riseup.net	5142389510	0	922 fifth st		nelson	bc	v1l2x8		1
+2019	Guido, Jim	821465	Individual	jdguido@shaw.ca	2503657231	0	1693 Ridgewood Drive		Castlegar				0
+2019	Haggar, Rob	365455	Couple	robhaggar@gmail.com	 250-229-4200	0	6192 Redfish Rd		Nelson	BC	V1L6M9		0
+2019	Haggar, Wemdy	365455	Couple	robhaggar@gmail.com	 250-229-4200	0	6192 Redfish Rd		Nelson	BC	V1L6M9		0
+2019	Haley, Brenda	594160	Individual	brendahaley@hotmail.com	250-231-7308	0	1188 Columbia Ave		Trail				0
+2019	Hammerich, Louise	733172	Individual	louisehammerich@hotmail.com	250-354-1467	0	1908 Fort Sheppard Drive		Nelson				0
+2019	Handley, Glacie	741273	Individual	gladie@telus.net	2503676672	0	Box 472		Montrose, 	BC	V0G 1P0 		0
+2019	Hanlon, Barb	135863	Couple	barbhanlon2@gmail.com	2505091366	0	1768 Ridgewood road 		Nelson				0
+2019	Hanlon, Larry	135863	Couple	l.hanlon@shaw.ca	2507773955	0	1768 Ridgewood road 		Nelson				0
+2019	Hans, Brenda 	968335	Couple	cygnus@theedge.ca	8674461518	0	12-3260 Heddle Road		Nelson	BC	V1L 6M3		0
+2019	Harasym, Don	357467	Individual	don.harasym@shaw.ca	2503544578	0	814 Hoover St		Nelson				0
+2019	Hardy, Jean-Francois	201461	Couple	jfhardy@me.com		0	2417 Perrier Lane		Nelson				0
+2019	hart, vicki	219422	Individual	vjoyhart@hotmail.com	2503526145	0	2 1004 Davies St		Nelson				0
+2019	Hartford, Jeannie 	993564	Couple	jeannieandterry@gmail.com	250-368-6800	0	8136 Devito Drive		Trail	BC	V1R 4W1		1
+2019	Hartford, Terry 	993564	Couple	jeannieandterry@gmail.com	250-368-6800	0	8136 Devito Drive		Trail	BC	V1R 4W1		1
+2019	Hartman, Cindy	683442	Individual	cndhrtman@gmail.com	+1 2505050475	0	222B Vernon Street		Nelson		V1L4E2		0
+2019	Harvey, Joan 	933994	Couple	jharvey23@hotmail.ca		0			Nelson				0
+2019	Hasenkox, Armin	561570	Individual	meanon@telus.net	(250)354-4555	0	122 Douglas Rd. 		Nelson	BC	V1L 2T7		0
+2019	Hatch, Christopher	347295	Couple	chris.hatch@telus.net	250-368-1184	0	Box 607		Rossland				0
+2019	Hatch, Helen	347295	Couple	ctghatch@telus.net	250-368-7417	0	Box 607		Rossland				0
+2019	Heacock, Edward	392513	Couple	heacock@telusplanet.net	780 860-6469	0	7231-112st nw		Edmonton	AB	T6g1j4		0
+2019	Heacock, Mary	392513	Couple	heacock@telusplanet.net	587 920-9842	0	7231-112st nw		Edmonton	AB	T6g1j4		0
+2019	Hebert, Marc	860356	Individual	yukonmorning@gmail.com	+1 867 335 3706 	0	Box 245 		Slocan	BC	VOG 2C0		1
+2019	Helyer, Laurie	0	Individual	4laurieb@gmail.com	2503592958	0	Unit 7 702 Fourth Street		Nelson	BC			0
+2019	Hempsall, Vince	203325	Individual	vhempsall@gmail.com		0			Nelson				0
+2019	Henderson, Janet	364868	Individual	chocolatejanet@gmail.com	250 354 8687	0	620 Latimer St		Nelson				0
+2019	Henderson, Sharon	496684	Individual	ymirites@yahoo.ca	2503572161	0	box 17	Wildhorse Rd	ymir				0
+2019	Hetherington, Joseph	766434	Individual	josephandrewhetherington@gmail.com	250 352 5403	0	3456 Torian Road		Nelson	B	V1L 6X7		0
+2019	Heyduck, Dave	618512	Individual	dave.heyduck@gmail.com		0	1095 Sorenson Rd		Castlegar				0
+2019	Hickson, Dennis	920997	Individual	dhick01@shaw.ca	(250) 825-9609	0	2628 Hwy 3A		Nelson	BC	v1l 6l1		0
+2019	Hiemstra, Sharon	180799	Individual	sharon77774444@gmail.com	2509219075	0	254 Currie st		TRAIL	BC	V1R 2L5		0
+2019	hislop, Mac	258745	Couple	mac.hislop@gmail.com		1	5740 Kennedy Road		Cranbrook	BC	V1C7C1		1
+2019	hislop, shelley	258745	Couple	shelley.claude@gmail.com	8673367029	1	5740 Kennedy Road		Cranbrook	BC	V1C7C1		1
+2019	Hobson, Cecilia	876969	Individual	hobsoncecilia@gmail.com	2503547833	0	Suite 61, 622 Front Street		Nelson				0
+2019	Hohn, Elizabeth	527640	Couple	bhohn@telus.net	250-551-3020	0	806 Hoover St		Nelson				0
+2019	Hohn, Wayne	527640	Couple	whohn@telus.net	250-551-3026	0	806 Hoover St		Nelson				0
+2019	Holden, Casey	548123	Individual	caseyholden@gmail.com	250-402-3201	0	Box 28		Sirdar	BC	V0B 2C0		1
+2019	Holland, Tony	717897	Individual	skyholland60@gmail.com	12503520885	0	220 Victoria Street		Nelson				0
+2019	Houghton, Keith	684460	Individual	Deapsnow95@gmail.com	2503048088	0	2632 Shoreacres Road		Castlegar				0
+2019	Houlden, Trevor	674778	Individual	thoulden@shaw.ca	250-362-7029	0	PO Box 347		Rossland	BC	V0G 1Y0		1
+2019	Howard, Brad	184236	Individual	bradhoward@telus.net		0			Nelson				0
+2019	Howard, Pamela	230126	Individual	pamelahoward54@icloud.com	250-354-2921	0	5930 Bluebird Rd		Nelson				0
+2019	Hunter, Linda	760910	Individual	hunteridp@gmail.com	778 461-3220	1	#8 - 3260 Heddle Rd		Nelson				0
+2019	Hurn, Gillian	809705	Couple	gill_hurn@hotmail.com	250 551 7234	0	6774 Harrop Procter Rd.		Nelson				0
+2019	Hutter, Henry	472495	Individual	grizzlyhenry@hotmail.com	250 226-6994	0	6560 Berekoff Rd.		Winlaw,	BC	V0G 2J0		0
+2019	Huxter, Elizabeth	547719	Couple	lizandterry@gmail.com	250-442-5204	0			Grand Forks				0
+2019	Huxter, Terry	547719	Couple	lizandterry@gmail.com	250-442-5204	0			Grand Forks				0
+2019	Isaac, Janice	970638	Individual	isaac.kratky@gmail.com	250-352-3895	0	44 Oak Street		Nelson				0
+2019	Jansma, Leo	793210	Couple	lmjansma@shaw.ca	250-229-4661	0	9194 Fisher Ave		Queens Bay				0
+2019	Jansma, Maureen 	793210	Couple	lmjansma@shaw.ca	250-229-4661	0	9194 Fisher Ave		Queens Bay				0
+2019	Jensen, Mark	622351	Couple	markjensen@telus.net	250-919-1259	0	1440 Knox Road		Nelson				0
+2019	Jmieff, Ginia	845225	Couple	giniahayward@gmail.com	2503541621	0	2962 Georama Rd		Nelson	BC	V1L6Y7		0
+2019	Jmieff, Lucas	845225	Couple	lucas@mountainart.ca	2505515518	0	2962 Georama Rd		Nelson	BC	V1L6Y7		0
+2019	Johannson, Linda	142384	Individual	ljohannson@yahoo.com	250-551-5683	0	717 Hall St		Nelson				0
+2019	johnston, joe	819348	Couple	macmar@lardeauvalley.com		0			Kaslo/Lardeau				0
+2019	johnston, marlene	819348	Couple	macmar@lardeauvalley.com	250-366-4474	0			Kaslo/Lardeau				0
+2019	Johnston, Tom	226789	Individual	trjohnst53@gmail.com	2503527025	0	1902 Fort Sheppard Drive		Nelson				0
+2019	Jordan, Peter	633989	Individual	pjordan@netidea.com	250-352-5225	0	524 West Gore St.		Nelson				0
+2019	Jorgensen, Carl 	490642	Individual	kuvi_jorgensen@hotmail.com		0	9415 103 Ave 		Fort St John				0
+2019	Joseph, Heidi	320674	Couple	jamieandheidi@shaw.ca	2502123103	0	5745 Taghum Fr Rd		Nelson				0
+2019	Joseph, Jamie	320674	Couple	jamiefjoseph@gmail.com	250-212-5554	0	5745 Taghum Fr Rd		Nelson				0
+2019	Judith, Sara	832358	Individual	sara.judith1@gmail.com	2503525218	0	918 Tenth Street		Nelson				0
+2019	Kessler, Tom	641752	Couple	tak@kesslerenvironmental.com	4036197536	0	PO Box 2338		Rossland	BC	V0G 1Y0		0
+2019	keto, glenn	112422	Individual	gsketo@gmail.com	5096844483	0	P.O. Box 267		Laurier				0
+2019	Kew, Jessica	752736	Couple	qfam@shaw.ca	250-362-5158	0	PO Box 1620		Rossland				0
+2019	Kew, Mike	752736	Couple	mtq@shaw.ca	250-362-5158	0	PO Box 1620		Rossland				0
+2019	Kimmerly, Kathryn	748830	Individual	Kathryn.Kimmerly@gmail.com	250-608-3095	0	533-5th Avenue		Castlegar	BC	V1N 1W1		0
+2019	Kingsmill, John	657189	Individual	jek@telus.net	2503175100	0	PO Box 676		Kaslo				0
+2019	Kirkland, Kenneth	215779	Couple	kwkirkland@shaw.ca	250 825-4434	0	3447 Hwy 3A		Nelson				0
+2019	Kitchen, Raymond	305382	Individual	raymondkitchen@gmail.com		0	1062 Columbia Heights Rd.		Robson	BC	V0G1X0		0
+2019	Knoop, James	804903	Individual	james.c.knoop@gmail.com	2503042025	0	2595 Norns Road		Castlegar				0
+2019	Koehle, Kristy	778992	Individual	kristykoehle13@hotmail.com	2503597130	0	327 high st		Nelson	BC	V1L 3Z9		1
+2019	Koerber, Norm	434803	Individual	norm.koerber@gmail.com	250 551-9769	0	Norm Koerber		South Slocan				0
+2019	Kortram, John	907938	Couple	john.kortram@gmail.com	2505054045	0	2430 Perrier Rd		Nelson				0
+2019	Kozak-Campbell, Cindy	538452	Individual	ckcamp@telus.net	250-32901523	0	4002 Rio Vista Way		Kamloops				0
+2019	Krajewski, Alexandra	637410	Individual	peacockcollective@yahoo.ca		0			Nelson				0
+2019	Krause, William	807729	Individual	wkrause@fmateam.com		0	20 Monroe St.		Honeoye Falls	NY	14472		0
+2019	Krebbers, Elizabeth 	194495	Couple	carnel@shaw.ca	250 777-2949	0	1367 3rd Ave		Trail				0
+2019	Kumar, Hitesh	580781	Individual	worldno007@gmail.com	6137933301	0	601 Lakeview cres		Nelson		V1L3E6		0
+2019	Kurokawa, Pat	694465	Couple	patkurokawa@gmail.com	2503548074	0	716 Fairway lane		Nelson 				0
+2019	Kyle, Andrew	930239	Couple	2014andrewkyle@gmail.com		0	1582 highway 3a		nelson				0
+2019	kyle, sharisse	930239	Couple	sharissekyle@gmail.com	2505091264	0	1582 highway 3a		nelson				0
+2019	Kyler, Jen	326876	Individual	jekyler@fastmail.fm	250-226-7083	0	4086 Passmore Upper Rd		Winlaw				0
+2019	LaFace, Caroline	816226	Individual	gclaface@telus.net	2503625809	0	Box 776		Rossland				0
+2019	LaFrance, Justin	306755	Individual	jlafrance@gmail.com		0	810 16th Avenue		Genelle	BC	V0G 1G0		1
+2019	Lainchbury, Ryker	355532	Individual	ryker.lainchbury@gmail.com	5875777322	0	530 Turner st	Suite a	Trail	BC	V1R2P7		0
+2019	Laird, Donna	269380	Couple	rlt.trucking@hotmail.com	2505053274	0	3282 Highway 3A		Nelson		V1L6M7		0
+2019	Laird, Rick	269380	Couple	rlt.trucking@hotmail.com	2505053274	0	3282 Highway 3A		Nelson		V1L6M7		0
+2019	Larson, Dayna	336097	Individual	daynalarson12@gmail.com	2508633595	0	3233 Bainbridge Road		Nelson				0
+2019	Latremouille, Jenny	308750	Individual	jensy@live.ca		0	#3-1001 Latimer St		Nelson 				0
+2019	Laventure, Jen	664012	Couple	jenlaventure@gmail.com	250 306 8878	0	2567 Cedar Ridge Crt		Lumby	BC	V0E 2G5		0
+2019	Laventure, Ken	664012	Couple	jenlaventure@gmail.com		0	2567 Cedar Ridge Crt		Lumby	BC	V0E 2G5		0
+2019	Lawrence, Marilyn	427406	Individual	marilynmarlawrence@hotmail.com	250-825-4698	0	3892 MacGregor Road		Nelson				0
+2019	Lazzarotto, Carmen	491618	Individual	carmen.lazzarotto@hotmail.com	7809373940	0	4363 Slocan River Road		Winlaw	BC	V0G 2J0		0
+2019	Leffelaar, David	854689	Couple	jdleffelaar@yahoo.ca	2505132333	0	3529 Southridge		Castlegar				0
+2019	Leffelaar, Julie Ann	854689	Couple	jdleffelaar@yahoo.ca		0	3529 Southridge		Castlegar				0
+2019	Lehnert, Frank	546166	Couple	joanne@coolventures.ca		0	5218 Kokanee Landing Road		Nelson	BC	V1L6N6		0
+2019	Lehnert, Joanne	546166	Couple	joanne@coolventures.ca	250-777-2245	0	5218 Kokanee Landing Road		Nelson	BC	V1L6N6		0
+2019	LENARDON, VIVIAN 	989063	Individual	vivianrocks@telus.net	2503681327	0	PO BOX 447		fruitvale				0
+2019	LINDSAY, MIKE	331982	Individual	mikelindsay@rogers.com	647-983-9892	0	4184 GRANGER ROAD		NELSON				0
+2019	Livingston, Barbara	480836	Couple	Jazzyjabb@hotmail.com		0			Trail				0
+2019	Livingston, John	480836	Couple	Jazzyjabb@hotmail.com		0			Trail				0
+2019	Lopez-Perez, Lucia	824629	Individual	weimlab123@gmail.com	7788295829	0	1119 Observatory St		Nelson 	BC	V1L 2J3		0
+2019	Lussier, David	592694	Individual	summitmountainguides@gmail.com	250-354-9028	0	1106 Hall Mines RD		Nelson	BC	V1L 1G6		1
+2019	Lyster, Sammy	396216	Couple	samuel.lyster@gmail.com	250-886-1362	0	212 Union St		Nelson	BC	V1L 4A3		0
+2019	Macek, Nancy	297765	Couple	nancy@macek.ca		0	911 Josephine Street		Nelson				0
+2019	Macek, Peter	297765	Couple	peter@macek.ca		0	911 Josephine Street		Nelson				0
+2019	MacLeod, Allan	888617	Couple	allanmacleod18@gmail.com	2503548934	0	303 JAM FACTORY LANE		NELSON	BC	V1L7B5		0
+2019	MacLeod, Deborah	888617	Couple	damacleod@telus.net		0	303 JAM FACTORY LANE		NELSON	BC	V1L7B5		0
+2019	MacVoy, Melanie	850118	Individual	mel.mac@shaw.ca	(250) 423-8759	0	1710 McDonald Ave.		Fernie	BC	V0B 1M1		0
+2019	Main, Ian	856486	Couple	ian.jb.main@gmail.com	2505515595	0	Katie McEwen	1235 Willow St	Nelson				0
+2019	Mainland, Janet	833000	Individual	mainland02@gmail.com	250-366-4681	0	Box 145		Meadow Creek	BC	V0G 1N0		0
+2019	Maplethorpe, Caden	474072	Individual	maplethorpe.caden@gmail.com	7803351640	0	PO Box 6581		Wetaskiwin	AB	T9A 2G3		1
+2019	Maras, Bobbie	294752	Individual	bobbiemaras@gmail.com	250-352-6760	0	2711 Granite Road		Nelson				0
+2019	Marceau, Ren√©e 	352427	Individual	renee_marceau@hotmail.com	250-505-8282	0	7538 upper Balfour road 		Balfour 				0
+2019	Marks, Eric	965435	Individual	eric.brian.marks@gmail.com	250-352-0003	0	2-2916 Georama Road		Nelson				0
+2019	Martin, Jocelyne	595098	Couple	joclmart3@gmail.com	250 505-4752	0	P.O. Box 143 	6286 Poplar Rd.	Wasa				0
+2019	Martyn, Peter	480004	Couple	pjmartyn@shaw.ca	250 352 9547	0	1116 Hoover St.		Nelson				0
+2019	Matthews, Fiona	583441	Couple	fmatthews811@gmail.com	250-608-2504	0	1027 Bridgeview Crescent		Castlegar				0
+2019	Matthews, Llewellyn	583441	Couple	llewellyn.c.matthews@gmail.com	250-608-6476	0	1027 Bridgeview Crescent		Castlegar				0
+2019	Maxfield, Isaac	584407	Individual	maxfield@gmail.com	6043648222	0	PO Box 507		Kaslo				0
+2019	May, Roger	923173	Couple	rwmay66@gmail.com	2503542820	0	4430 Hwy 3A and 6		Bonnington		V0G2G3		0
+2019	May, Shannon	923173	Couple	shannonmay84@gmail.com	2503547873	0	4430 Hwy 3A and 6		Bonnington		V0G2G3		0
+2019	Mayert, Tina	973106	Individual	sapphire40tina@gmail.com	12507772002	0	201-710 Vernon Street		Nelson	BC	V1L4G2		1
+2019	Mazzocchi, Rick	252814	Individual	rmazz@columbiawireless.ca	250-359-6867	0	2542 Hwy 6		Slocan Park				0
+2019	McClay, Bette	814110	Couple	bmst2009@hotmail.com	3064577251	0	# 302 2000 Choquette Ave.		Nelson	BC	V1L7E4		0
+2019	McClay, Marvin	814110	Couple	bmst2009@hotmail.com	3064577251	0	# 302 2000 Choquette Ave.		Nelson	BC	V1L7E4		0
+2019	McCormick, Patrick	755990	Couple	patsammccormick@gmail.com	780 972 0454	0	A1 1011 Telemark Rd		Rossland				0
+2019	McCormick, Samantha 	755990	Couple	patsammccormick@gmail.com	780 742 4275	0	A1 1011 Telemark Rd		Rossland				0
+2019	McCuaig, Alan	608301	Individual	alan.mccuaig@shaw.ca	250 825-2226	0	#11-1691 Highway 3A		Nelson				0
+2019	McEwen, Katie	856486	Couple	kamcewen@gmail.com	2505056126	0	Katie McEwen	1235 Willow St	Nelson				0
+2019	McInnes, Denise	205500	Individual	denisemcinnes1@hotmail.com	2505059111	0	3456 Torian Road		Nelson		V1L 6X7		0
+2019	McIver, Peter	860745	Individual	petermciver@hotmail.com	250-365-1191	0	2904 First Avenue		Castlegar				1
+2019	McKenzie, Evan	798344	Individual	evan.mck@gmail.com	2503544051	0	P.O. Box 905		Nelson	BC	V1L6A5		1
+2019	McMackin, Ed 	353672	Individual	anagallis77th@gmail.com	250-866-5747	0	836 Arrow Creek Rd		Creston	BC	V0B1G8		0
+2019	McNally, William	131014	Individual	bill@spilkermcnally.ca	1-250-352-2088	0	1809 Fort Sheppard Dr		Nelson				0
+2019	McQuade, Kelly	726341	Individual	kelly.bridget.mcquade@gmail.com	6043191783	0	896 Highway 3A		Nelson	BC	V1L6J4		1
+2019	McQueen, Bob	801182	Individual	mcqueen2@telus.net	250-362-9502	0	Box 1613	2420 McLeod Ave.	Rossland				0
+2019	Mentz, Erwin	100148	Individual	cyclingmaniac@hotmail.com	250 229-4349	0	7585 Harrop-Proctor Rd		Nelson	BC	V1L 6R7		0
+2019	Menzies, Kimberley	316033	Individual	blackeyedbetty@gmail.com	01604230044	0		BOX 445	Montrose BC				0
+2019	Methuen, Geoff	239834	Couple	gmethuen@gmail.com	250-551-2414	0	1424 Jeffs Ave.		Nelson	BC	V1L 1A8		0
+2019	Methuen, Leah	239834	Couple	lme57@telus.net	250-551-0928	0	1424 Jeffs Ave.		Nelson	BC	V1L 1A8		0
+2019	miller, marilyn	565330	Individual	mdesmiller@shaw.ca	2503522468	0	712 latimer st		nelson				0
+2019	Milner, Bruce	535167	Individual	bealbycove1@gmail.com	250-505-2190	0	2155 Bealby Point Road		Nelson				0
+2019	Miros, Eliane	580932	Couple	esmiros@netidea.com	2503655707	0	2824 9th Ave		Castlegar				0
+2019	Miros, Steven	580932	Couple	esmiros@netidea.com	2503655707	0	2824 9th Ave		Castlegar				0
+2019	mitchell, ivy	494419	Individual	ivymtch9@gmail.com	403-826-6318	0	4 2727 Lower Six Mile Road		Nelson	BC	V1L6L5		0
+2019	Monea, Linda	482225	Individual	lindamonea@gmail.com	3065377309	0	2494 Hwy3		Nelson				0
+2019	Moore, Linda	718266	Individual	abenteuerbc@yahoo.com	360-949-7913	0	305 SE Chkalov Drive	Suite 111-244	Vancouver				0
+2019	Moore, Marcia	927207	Individual	marcia.moore@outlook.com	2505054457	0	1544 Nasookin Road		Nelson				0
+2019	Moote, Robert	492983	Couple	robmoote@gmail.com	250-551-8787	0	3214 Heddle Rd		Nelson				0
+2019	Moye, Jayme	201461	Couple	jaymemoye@gmail.com		0	2417 Perrier Lane		Nelson				0
+2019	Muenter, Rainer	146486	Couple	rainer@monticola.ca	250-354-3022	0	PO Box 758	59 Kootenay Avenue North	Fruitvale				0
+2019	Muenter-Anderson, Maureen	146486	Couple	maureen@monticola.ca	250-231-8034	0	PO Box 758	59 Kootenay Avenue North	Fruitvale				0
+2019	Murphy, Shannon	753608	Individual	shannonmurphy108@gmail.com	2503520663	0	807 Observatory St.		Nelson	BC	V1L4Z3		1
+2019	Mutch, Hamish	180268	Individual	hamutch@shaw.ca	250-352-2381	0	723 Regent St		Nelson				0
+2019	Myers, Heather	459382	Individual	h.myers@shaw.ca	250-399-4109	0	2383 Hwy 3A, 		Nelson,				0
+2019	nagels, karin	991485	Individual	karinmimosa69@yahoo.ca	17783493755	0	416 west Beasley Crescent		Nelson				0
+2019	NAICKER, SHARMAN	529355	Couple	s.naicker@hotmail.com	12502311669	0	2642 MCCLEOD AVENUE	po box 1119	ROSSLAND				0
+2019	NAICKER, THESHINI	529355	Couple	THESHNAICKER@HOTMAIL.COM	2503622345	0	2642 MCCLEOD AVENUE	po box 1119	ROSSLAND				0
+2019	Nekleva, Karleigh	907345	Individual	knekleva00@gmail.com	02506080565	0	1466 emerald crescent		Castlegar	BC	V1N 4W2		1
+2019	Nelson, Marilyn	703961	Individual	marilynalicenelson@gmail.com	250-231-1017	0	Box 1154		Rossland				0
+2019	Neustaedter, Will	381207	Individual	wneustaedter@yahoo.com	250 551 1043	0	Will		Nelson	BC	V1L 6T5		0
+2019	NICHOL, ALEX	488174	Couple	aenichol@hotmail.com	250 352-6086	0	110 Union Street		Nelson				0
+2019	NICHOL, KATHLEEN	488174	Couple	kathleen.nichol@hotmail.com	250 352-6086	0	110 Union Street		Nelson				0
+2019	Niosi, Goody	303268	Individual	goodyniosi@gmail.com	250-358-2281	0	PO Box 218		Silverton				0
+2019	Nixon, Curt	917516	Individual	ajuthz@shaw.ca		0			Nelson				0
+2019	Noiles, Nancy	215265	Individual	nancynoiles@gmail.com	2503548600	0	434 Johnstone Road		Nelson	BC	V1L 6J1		0
+2019	Nowak, Holli	508673	Individual	holliflower_86@hotmail.com	250 921-9486	0	Box 2157		Rossland	BC	V0G 1Y0		0
+2019	Oinuma, Katsuyo	416015	Individual	katsuyo.oi-1129@hotmail.co.jp	2505514647	0	106 Nelson Avenue		Nelson 	BC	V1L 2M3		0
+2019	Oostlander, Peter	330508	Couple	peteroostlander@hotmail.com	778-460-3341	0	3341 Southridge Drive		Castlegar				0
+2019	Organ, Tom	167579	Individual	torgan10@gmail.com	2505056445	0	3771 westwind rd		Krestova		V0g1h2		0
+2019	Orr, Doug	631876	Couple	douglorr@yahoo.ca	250-210-0779	0	Box 2163		Rossland	BC	V0G 1Y0		0
+2019	OSBORNE, Jan	944115	Couple	thehophouse@shaw.ca	250 825-9229	0	4188 Hwy 3A		Nelson				0
+2019	OSBORNE, Ron	944115	Couple	thehophouse@shaw.ca	250 825-9229	0	4188 Hwy 3A		Nelson				0
+2019	Owen, Melissa	348733	Individual	mowen94@hotmail.com	7789620172	0	316 Innes Street		Nelson	BC	V1L5E5		0
+2019	Panousis, Nikita	696798	Individual	nikitascreamery@gmail.com	780-224-7448	0	22410-119avenue 		Edmonton	AB	t5s 2c1		0
+2019	Paolini, Diane	584809	Individual	rdpaolini2@gmail.com	250-362-5662	0	Box 844		Rossland				0
+2019	Paolozzi, John	902444	Individual	john.paolozzi@gmail.com	2505514344	0	806 Silica St		Nelson	BC	V1L 4N6		0
+2019	Parisotto, Connie	338708	Individual	connieparisotto@gmail.com	2503686661	0	7991 Birchwood Dr.		Trail	BC	V1R4Y3		0
+2019	Payne, Colin	406443	Individual	colinpayne@gmail.com	2505513174	0	3167 Baker Rd		South Slocan	BC	V0G2G1		1
+2019	pelletier, francis	202831	Individual	francispelletier98@gmail.com	8195887117	0	PO box 244		New Denver		V0G !S0		0
+2019	PERRIER, RONALD	344489	Individual	rvperrier@gmail.com	2508715529	0	2202 - 44 ANDERTON AVE		COURTENAY				0
+2019	Perrin, Murielle	140006	Couple	perrin1220@gmail.com		0	#25-1220 Mill Street		Nelson				0
+2019	Perrin, Roland	140006	Couple	perrin1220@gmail.com		0	#25-1220 Mill Street		Nelson				0
+2019	Pettersson, Maria	599435	Individual	mariapettersson@live.com	2507772290	0	965 Hwy 3a		Nelson	BC	V1L6J5		0
+2019	Piver, Andre	809705	Couple	andrepiver@shaw.ca	250 505 2759	0	6774 Harrop Procter Rd.		Nelson				0
+2019	Polak, Tonia	299751	Individual	tpolak99@gmail.com	2507771347	0	461 Wellington Ave		Trail	BC	V1R 2L1		0
+2019	Polt, Serena	108042	Individual	serena.polt@gmail.com	2506868637	0	2703 Fernwood Rd		Victoria	BC	V8Z6Y5		0
+2019	Pomar, Chelsea	640782	Individual	chelseapomar@gmail.com	506-227-7853	0	2532 9th Avenue 		Castlegar				0
+2019	Popadynetz, Dan	694465	Couple	dpopady@gmail.com	250 354 1626	0	716 Fairway lane		Nelson 				0
+2019	Port, Bert	453466	Couple	sbport@telus.net	2503656056	0	2713 10th Ave		Castlegar				0
+2019	Port, Susan	453466	Couple	sbport@telus.net	2503656056	0	2713 10th Ave		Castlegar				0
+2019	Potasnyk, Carol	243289	Individual	cpotasnyk@telus.net	250 354 1494	0	#6 - 1220 Mill Street		Nelson				0
+2019	Potter, Steve	336266	Couple	stevenmpotter@gmail.com	(303) 915-0100	0	1416 Trevor Street		Nelson				0
+2019	Powell, Dawn	115296	Couple	da.powell@live.ca	250-551-5558	0	2646 Hwy 3A		Nelson				0
+2019	Powell, Tim	115296	Couple	tlpowell@shaw.ca	250-551-0234	0	2646 Hwy 3A		Nelson				0
+2019	Preney, Dominique	836269	Individual	dopreney@hotmail.com	2503543112	0	302 union st		Nelson	BC	V1L4A6		0
+2019	Pretto, Chiara	681948	Individual	chiarapretto@hotmail.com	807-709-0059	0	901 Redstone Drive		Rossland				0
+2019	Proctor, Carmen	460679	Individual	fit4nelson@yahoo.ca	250-509-2021	0	Box 1043 		Nelson				0
+2019	Prothro, Mary	741234	Individual	prothromary@gmail.com	2505052907	0	302 Howe		Nelson	BC	V1L 5M9		0
+2019	Raabis, Christopher 	520591	Individual	chrisraabis@gmail.com	2505059700	0	699 Neale Ln		Nelson	BC	V1L6H7		0
+2019	Rabb, Vivienne	816368	Individual	dvrabb@gmail.com	2502545307	0	13583 Mountain Shores N Road		Boswell				0
+2019	Radridge, Laura	510716	Individual	lradridge@gmail.com	250 505-2384	0			Krestova 				0
+2019	Rauch, Fabia	490738	Individual	fabia.rauch@gmail.com	(778) 231 6692	0	Fabia		Nelson	BC	V1L 2C7		1
+2019	Reeder, Bruce	272886	Couple	bruce.reeder@usask.ca	306-292-7934	0	1316 Jeffs Avenue		Nelson				0
+2019	Reesor, Tarah	854707	Couple	tarah.reesor@gmail.com	2503048417	0	2501 Fifth Avenue		Castlegar				0
+2019	Richards, Danny	854707	Couple	dannysabode@hotmail.com	587-229-3945	0	2501 Fifth Avenue		Castlegar				0
+2019	Richards, Shelley	719961	Individual	justlaugh39@yahoo.ca	2505512822	0	2-2727 Lower Six Mile Rd		Nelson				0
+2019	Richardson, Rob	121927	Couple	robricha@telus.net	2505057969	0	538 Johnstone Rd		Nelson				0
+2019	Richardson, Terri	121927	Couple	terricha@telus.net	2503543166	0	538 Johnstone Rd		Nelson				0
+2019	Richer, Fred	400377	Individual	fredlyr@yahoo.ca	2503521389	0	1319 MTN STN		NELSON	BC	V1L 2J3		0
+2019	Ringer, Laura	355625	Individual	lauraringer9@gmail.com	2267551289	0	Unit #1, 702 Fourth Street		Nelson				0
+2019	Roberts, Delia	651731	Individual	delia.roberts.phd@gmail.com	2503651820	0	2808 9th Ave		Castlegar				0
+2019	Robertson, Kathie	266412	Individual	kars@telus.net	2503657763	0	2717 10 Avenue		Castlegar	BC	V1N3A5		0
+2019	Robin, Lorna	484206	Individual	lorna8robin@gmail.com	250-551-4443	0	Box 22		Crawford Bay				0
+2019	Robinson, Ben	571213	Couple	bfr@ualberta.ca	7808073185	0	74 Wallinger Ave		Kimberley	BC	V1A 1Y5		0
+2019	Rooke, Joel	889781	Individual	rookeconstruction@hotmail.com	306-850-6015	0	1316 Jeffs Avenue		Nelson	BC	V1L 1A6		0
+2019	Ross, Jeff	927379	Individual	jeffeross@hotmail.com	250-921-8228	0	PO Box 602		Rossland				0
+2019	Russell, Gail	502077	Individual	gailandnelson@gmail.com	250-352-7444	0	896 Hwy 3A		Nelson	BC	V1L6J4		0
+2019	Russell, Ingrid	746589	Couple		250-352-1804	0	601 Ninth St		Nelson				0
+2019	Sampson, Tom	489137	Couple	tomsamp1@shaw.ca	403-654-3724	0	P.O. Box 1496		Rossland	BC	V0G1Y0		0
+2019	Saunders, Dylan	588504	Individual	drsaunder@gmail.com	5872299550	0	1627 Green Gables Road		Trail				0
+2019	Saylor, Jenna	531564	Individual	jensay75@gmail.com	306-361-9953	0	315-505 Second Street 		 Nelson	BC	V1L5P2		1
+2019	Schwarz, Iris	172138	Individual	schwarz.iris@gmail.com	2505210105	0	Iris	Box 462	Rossland				0
+2019	Selwood, Nancy	541368	Couple	nancyselwood@gmail.com	250-505-3446	0	111 Houston st.		Nelson				0
+2019	Shames, Pínina	480004	Couple	p.nina@shaw.ca	2503529547	0	1116 Hoover St.		Nelson				0
+2019	Shears, Rhonda	131383	Couple	rhonda.shears@gmail.com	2503652101	0	2301 10th Ave		Castlegar				0
+2019	Sheppard, Alan	369351	Couple	asheppa@shaw.ca	250 365 6486	0	809 Hillview Road		Castlegar				0
+2019	Sheppard, Greg	242495	Couple	greg.sheppard@hotmail.com	2503544141	0	5718 Woodland Dr		Nelson				0
+2019	Sheppard, Patricia	369351	Couple	asheppa@shaw.ca	250 365 6486	0	809 Hillview Road		Castlegar				0
+2019	Sheppard, Robin	242495	Couple	robinstoll@hotmail.com	2503544141	0	5718 Woodland Dr		Nelson				0
+2019	Sherkat, Shirley	844020	Individual	sashasherkat@gmail.com		0	2181 Bealby Pt. Rd.		Nelson				0
+2019	Shlakoff, Cindy 	174559	Individual	shlakoff@telus.net	250-513-2333	0	2633 9th ave		Castlegar 	BC	V1N 2Y7		0
+2019	Simpson, Teruko	896381	Individual	tzsimp@gmail.com	 	0	 		Rossland				0
+2019	Sin, Amanda	507989	Couple	amandasin@mac.com	7053511983	0	PO Box 2052		Rossland				0
+2019	Sinkie, Sheila	770197	Individual	sheilasinkie@gmail.com	250 551-4946	0	Box 228		Silverton		V0G 2B0		0
+2019	Smith, Deb	145670	Individual	smitty230@yahoo.ca	250-505-4619	0	230 High St		Nelson	BC	V1L3Z7		0
+2019	Smith, Heather	348055	Couple	heatherssmail@gmail.com	250 512 7242	1	PO Box 1135		Rossland	BC	V0G 1Y0		0
+2019	Smith, Neal	348055	Couple	smith.nealp@gmail.com	250 512 2141	1	PO Box 1135		Rossland	BC	V0G 1Y0		0
+2019	Smyth , Rebecca 	174452	Couple	mikewicentowich@gmail.com	2502318975	0	102 Ritchie Avenue 		Trail 	BC	V1R1G9		1
+2019	Steacy, Fran	336266	Couple	fsteacy@hotmail.com	250-999-3110	0	1416 Trevor Street		Nelson				0
+2019	Stedmann, Sherallyn 	137813	Individual	Sherallyn.stedmann@gmail.com	2505510091	0	2920 Granite Road		Nelson	BC	V1L 6Y5		0
+2019	Steel, Abigail	918338	Individual	abigail.steel.nl@gmail.com	250-231-1852	0	PO Box 1945		Rossland	BC	V0G 1Y0		0
+2019	Stent, Peter	693089	Individual	pjstent@telus.net	250.352.3031	0	920 Seventh St		Nelson				0
+2019	Stephenson, Janet	543915	Individual	canuckaroos@shaw.ca	(250) 777-2514	0	918 Tenth Street		Nelson	BC	V1L 3C8		0
+2019	Stevens, Scott	700208	Individual	scott.e.stevens@gmail.com	7809830488	0	B-1801 Hall Mines Rd		Nelson		V1L1G8		0
+2019	Stewart, Janet	853780	Couple	janet3stewart@me.com	403-710-0347	0	2836 Lower Six Mile Road		Nelson	BC	V1L 6L6		0
+2019	Stock, Art	479362	Couple	artstock@telus.net	250-352-2910	0	515 Fourth St.		Nelson				0
+2019	Stockdale, Bill	827562	Couple	cwstock@telus.net	250-551-8859	0	Box 719		Salmo				0
+2019	Stockdale, June 	827562	Couple	junest@telus.net	250-357-2158	0	Box 719		Salmo				0
+2019	Stockerl, Ron	116957	Individual	stockerl@bluebell.ca	2502253234	0	Box 37 1265 Riondel rd		Riondel	BC	V0B 2B0		0
+2019	Stralak, Jude	617588	Individual	jstralak@gmail.com	2503529583	0	1583 Granite Rd		Nelson				0
+2019	Su, Mark	742253	Individual	mark_su1988@hotmail.com	6044413458	0	14729 BC-3A PO Box 102		Gary Creek	BC	V0B 1S0		0
+2019	Sutherland, Christine	387493	Individual	csuther@netidea.com	250-505-4277	0	25 - 38 High St		Nelson	BC	V1L 6E7		0
+2019	SUTHERLAND, VERONICA	978413	Individual	Sutherland.veronica@gmail.com	4037078110	0	Box 1181 1891 Union ave.		Rossland	BC	V0G1Y0		0
+2019	Suuban, Nancy	158655	Individual	nsuuban@gmail.com	250-352-2279	0	715 Hall Street		Nelson				0
+2019	Taiatini, Annie	207797	Individual	travellinhodads@yahoo.ca	2503526231	0	702 Pine St		Nelson				0
+2019	Tchir, Peter	277648	Individual	ptchir@gmail.com	250- 357- 2292	0	Box 814	200 Sayward Ave	Salmo				0
+2019	Thiessen, Fred	633662	Couple	efanjoy@telus.net	250.352.9874	0	417 Fourth Street		Nelson				0
+2019	Thomas, Raymond	428367	Individual	rthomfor@telus.net	250 357-2332	0	PO Box 572		Salmo				0
+2019	Thompson, Bill	903297	Individual	blthompson7302@hotmail.com	250-368-7589	0	2980 Spruce Rd.		Fruitvale				0
+2019	Thomson, Nathan	108602	Individual	thomsonfamilyfive@gmail.com	250-551-8834	0	720 Seventh street		Nelson	BC	V1L 2Z9		0
+2019	Toews, David 	659296	Couple	davidtoews@shaw.ca	2508259346	0	3946 MacGregor Road		Nelson				0
+2019	Toews, Judy	659296	Couple	davidtoews@shaw.ca		0	3946 MacGregor Road		Nelson				0
+2019	Tomek, Mark	338218	Individual	marktomek@gmail.com		0	816 Silica St.		Nelson	B	V1L 4N6		0
+2019	troan, ralph	918341	Individual	ralphtroan@gmail.com	778 205 4800	0	Box 665		KASLO				0
+2019	Truant, Vera	449985	Individual	nvtruant@gmail.com	250 231-9944	0	Box 298	1903 Robin Street	Fruitvale 	BC	V0G 1L0		0
+2019	tucker, lizette	261934	Individual	lizettet@telus.net	2502310821	0	1816 Fourth Ave		Trail 	BC	V1R1T1		1
+2019	Tucker, Mike	281550	Individual	mike@spilkermcnally.ca	2503522088	0	820 Houston Street West		Nelson		V1L 5Y6		0
+2019	Tuffrey, Nigel	280786	Individual	ntuff@protonmail.com	780 992-8170	0	9912 93 St		Fort Sask				0
+2019	Tuit, Ineke	907938	Couple	ineke.tuit@gmail.com	778 463-3351	0	2430 Perrier Rd		Nelson				0
+2019	Turner, Terry	642498	Individual	sharterr@bluebell.ca	250-225-3483	0	Box 201		Rionel	BC	V0B 2B0		0
+2019	Umpherville, Jeremy	626008	Couple	jeremyumpherville@gmail.com	2509615944	0	1008 Moraine Rd		Castlegar 	BC	V1N 4R5		0
+2019	Utgaren, Valerie	499340	Individual	valuski@icloud.com	2509215667	0	Box 576		Fruitvale				0
+2019	van Rensen, Cassidy	571213	Couple	cassidykv@gmail.com	7802009662	0	74 Wallinger Ave		Kimberley	BC	V1A 1Y5		0
+2019	Van, My-Tram	396216	Couple	my.tram.van@gmail.com	604-908-6253	0	212 Union St		Nelson	BC	V1L 4A3		0
+2019	Vanin, Mirella	363761	Individual	miri.vanin@gmail.com	2503548001	0			Nelson	BC			0
+2019	Veale, Amy	863450	Individual	amy.veale@hotmail.ca	250-352-9767	0	3015 Perrier Rd		Nelson	BC	V1L 6Z3		0
+2019	Vierheilig-Chart, Birgit	138871	Couple	birgitchart@hotmail.com	2503549415	0	616 Railway st		Nelson				0
+2019	Vinegar, Russell	926380	Individual	russell.vinegar@gmail.com	7058688795	0	PO Box 438		Rossland	BC	V0G 1Y0		0
+2019	von Ah, Elisabeth	691986	Individual	info@hauslemon.com	250-355-2536	0	7721 Loyola Rd			Box 329	Slocan					0
+2019	Vowell, Andrea	908926	Individual	avowell3@gmail.com	250-354-7473	0	313 - 710 Vernon Street		Nelson				0
+2019	Vuik, Emmy	493939	Individual	emmyvuik@gmail.com	2505094043	0	7640 Harrop Procter Road	Box 16	Procter				0
+2019	Wagner, Adrian	350623	Individual	info@adrianwagnerstudio.com	2505056285	0	385 Baker Street	Suite 1	Nelson	BC	v1l 4h6		0
+2019	Wahn, David	635529	Individual	davewahn57@gmail.com	2505053425	0	1612 Falls Street		Nelson	BC	V1L 1J6		0
+2019	Wallace, Glenn	405393	Individual	glenn.w@telus.net	250-368-6998	0	1659 Columbia Avenue		Trail				0
+2019	Walton, John	938095	Couple	mjwalton@telus.net	2503656519	0	2433 10th Ave.		Castlegar				0
+2019	Walton, Muriel	938095	Couple	mjwalton@telus.net	2503656519	0	2433 10th Ave.		Castlegar				0
+2019	Wang, Flora	503999	Individual	fwangcx@yahoo.ca		1	2000 207 Choquette Ave		Nelson		V1L7E4		0
+2019	Warll, Jessica	799932	Individual	j_warll@hotmail.com	2504602915	0	Jessica		Nelson	Bc	V1L 6Y7, 		0
+2019	Warren, Mellissa	785262	Individual	mellissa_warren@hotmail.com	778-708-9642	0	420 Victoria Street		Nelson	BC	V1L 4K5		1
+2019	Wasson, Page	492983	Couple	pagewasson@gmail.com	250-551-8582	0	3214 Heddle Rd		Nelson				0
+2019	Watson, Dave	841275	Couple	jdwatson01@shaw.ca	250 362 5660	0	PO Box 78		Rossland				0
+2019	Watson, Jill	841275	Couple	jdwatson01@shaw.ca		0	PO Box 78		Rossland				0
+2019	Watson, Keith	103231	Couple	sherry7.watson@gmail.com	250304-7677	0	1429 Meadowbrook Drive	Unit J	Castlegar				0
+2019	Watson, Sherry	103231	Couple	sherry7.watson@gmail.com	250-304-7677	0	1429 Meadowbrook Drive	Unit J	Castlegar				0
+2019	White, Diane	348814	Individual	l8ddi@shaw.ca	250-825-4178	0	3-1691 HWY 3A		Nelson	BC	V1L6J8		0
+2019	White, Eric	231923	Couple	eric_white@shaw.ca	250-825-4392	0	3093 Heddle Road		Nelson				0
+2019	Wicentowich, Mike	174452	Couple	mikewicentowich@gmail.com	2502318975	0	102 Ritchie Avenue 		Trail 	BC	V1R1G9		1
+2019	Wilkinson, Tandi	522274	Individual	kootenaytandi@gmail.com	867-446-4144	0			Nelso				0
+2019	Williams, Gary	230736	Couple	margwilliams@shaw.ca	2503625297	0	POB 1384		Rossland				0
+2019	Williams, Luke	170288	Couple	ltw.638@gmail.com	2507772087	0	2369 Gilroy Road		Nelson	BC	V1L6K6		0
+2019	Williams, Margo	230736	Couple	margwilliams@shaw.ca	2503625297	0	POB 1384		Rossland				0
+2019	Williams, Miriam	704638	Individual	wil_ione@telus.net	250-352-9479	0	2124 Stanley St.		Nelson				0
+2019	Wilson, Abigail	658863	Couple	abigail.c.wilson@gmail.com		0			Nelson				0
+2019	Wilson, Scott	971484	Individual	scott.wilson.uregina@gmail.com		0			Nelson				0
+2019	Wood, Derek	653216	Individual	cykafss@live.ca	778 257-1181	0	526 4th Ave		Castlegar	BC	V1N1X8		0
+2019	Wood, Peter Wm	976732	Individual	annpetewood@gmail.com	250 359-7107	0	3302 South Slocan Village Rd		South Slocan				0
+2019	Woods, Guy	225738	Couple	guy.woods@shaw.ca	2508259227	0	1753	Hwy 3A	Nelson	BC	V1L6J8		0
+2019	Woods, Pamela	225738	Couple	guypam@shaw.ca	2508259227	0	1753	Hwy 3A	Nelson	BC	V1L6J8		0
+2019	Woodward, Andrew	658863	Couple	andrew.g.woodward@protonmail.com	2505515050	0			Nelson				0
+2019	Wrigley, Sue	596902	Individual	sue@monasheeview.com	250-362-5332	0	Box 116		Rossland				0
+2019	Wyatt, Daniel	677716	Individual	daniel.wyatt@rocketmail.com	4169996497	0	1-511 Silica St,		Nelson		V1l4m8		0
+2019	Yole, David	746589	Couple	davidyole@gmail.com		0	601 Ninth St		Nelson				0
+2019	Young, Kurt	593717	Individual	kyoung05118@gmail.com	250 505 7519	0	1121 White Road		South Slocan 				0
+2019	Zaal, Reneta	477198	Individual	snider_24@hotmail.com	2503679342	0	1960 Green Rd		Fruitvale				0
+2019	Zach, Zuzana	649661	Individual	zuziezach@yahoo.ca	2503529180	0	1524 Vancouver St.		Nelson				0
+2019	Zahn, Marcella	335955	Couple	ronaldmarcella@hotmail.com	2503677946	0	1830 1st Street	PO Box 122	Fruitvale	BC	V0G 1L0		0
+2019	Zahn, Ronald	335955	Couple	ronaldmarcella@hotmail.com	2503677946	0	1830 1st Street	PO Box 122	Fruitvale	BC	V0G 1L0		0

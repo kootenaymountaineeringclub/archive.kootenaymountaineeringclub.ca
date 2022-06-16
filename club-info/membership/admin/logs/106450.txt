@@ -1,0 +1,27 @@
+Session:
+Array
+(
+    [MembType] => Couple
+    [FirstName1] => Joe
+    [NickName1] => JB
+    [LastName1] => Blow
+    [Email1] => jb@blow.ca
+    [Phone1] => 1234567890
+    [FirstName2] => Mary
+    [NickName2] => 
+    [LastName2] => Lamb
+    [Email2] => mary@blow.ca
+    [Phone2] => 1234567891
+    [Addr1] => Apt. 1234
+    [Addr2] => 567 Cristal Bay
+    [City] => Nelson
+    [Prov] => BC
+    [Postal] => V1L 5X7
+    [private] => 1
+    [kmc] => 1
+    [fmcbc] => 1
+    [Agreement] => Agreed
+    [MembCost] => 61.00
+    [Newsletter] => 20.00
+)
+

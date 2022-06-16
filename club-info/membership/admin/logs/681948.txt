@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Chiara
+    [NickName1] => 
+    [LastName1] => Pretto
+    [Email1] => chiarapretto@hotmail.com
+    [Phone1] => 250
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 17 Monashee Place
+    [Addr2] => 
+    [City] => Rossland
+    [Prov] => BC
+    [Postal] => V0G 1Y0
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

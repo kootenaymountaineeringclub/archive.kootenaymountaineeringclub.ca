@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Ed 
+    [NickName1] => 
+    [LastName1] => McMackin
+    [Email1] => anagallis77th@gmail.com
+    [Phone1] => 250-866-5747
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 836 Arrow Creek Rd
+    [Addr2] => 
+    [City] => Creston
+    [Prov] => BC
+    [Postal] => V0B1G8
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

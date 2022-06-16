@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Kent
+    [NickName1] => 
+    [LastName1] => Roberts
+    [Email1] => kbrlsr375@gmail.com
+    [Phone1] => 509-680-3317
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 375 Corbett Creek Road
+    [Addr2] => 
+    [City] => Colville
+    [Prov] => Washington
+    [Postal] => 99114
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

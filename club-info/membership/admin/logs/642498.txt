@@ -1,0 +1,26 @@
+Session:
+Array
+(
+    [MembType] => Couple
+    [FirstName1] => Terry
+    [NickName1] => 
+    [LastName1] => Turner
+    [Email1] => sharterr@bluebell.ca
+    [Phone1] => 250-225-3483
+    [FirstName2] => Sharon
+    [NickName2] => 
+    [LastName2] => Turner
+    [SharedEmail] => 1
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => Box 201
+    [Addr2] => 
+    [City] => Rionel
+    [Prov] => BC
+    [Postal] => V0B 2B0
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 61.00
+    [Newsletter] => 0
+)
+

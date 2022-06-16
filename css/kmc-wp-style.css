@@ -1,0 +1,185 @@
+body {
+	font-family: Verdana, Helvetica, sans-serif;
+	line-height: 1.4;
+	background-color: #ffffff;
+}
+
+#master {
+	width: 98%;
+	margin: 0 auto;
+	background-color: rgb(255,255,255);
+}
+
+#kmc-header {
+	width: 100%;
+	height: 150px;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-size: cover;
+	background-position: center center;
+}
+
+#kmc-header img {
+	float: right;
+	height: 50%;
+	width: auto;
+	margin: 8px 4px 60px 10px;
+	padding:  0;
+}
+
+#kmc-header h1, #kmc-header p {
+	margin: 0 60px;
+	padding: .25em;
+	color: #2F2727;
+	text-shadow: -3px -3px 2px #efefef, 3px 3px 2px #efefef, -3px 3px 2px #ddd, 3px -3px 2px #efefef;
+}
+
+#kmc-header #photographer {
+	display: inline-block;
+	width: auto;
+	padding: 2px 1em 0;
+	height: 20px;
+	text-align: left;
+	font-size: 75%;
+	margin: 0 5px;
+	vertical-align: middle;
+	color: #888;
+	background: rgba(230, 230, 230, 0.4);
+	text-shadow: -2px -2px 4px #efefef, 2px 2px 4px #efefef, -2px 2px 4px #efefef, 2px -2px 4px #efefef;
+	box-shadow: 2px 2px 3px rgba(235, 235, 235, 0.4),  -2px -2px 3px rgba(235, 235, 235, 0.4);
+}
+
+#kmc-header #header-nav {
+	margin: 0;
+	padding: 0;
+	text-align: center; font-size: 90%;
+}
+
+#kmc-header nav a { color: #001753; text-decoration: none; }
+#kmc-header nav a:hover	{ background: rgb(255,213,0); }
+#kmc-header nav a.current { color: rgb(3,22,225); }
+
+a.nav-link.current	{ background: rgb(255,213,0); }
+
+#kmc-header  nav a { display: inline-block; width: 100%; margin-top: 13px; font-weight: 600; color: #001753; }
+
+#kmc-header #header-nav .nav-link { display: inline-block; width: 100%; margin-top: 11px; font-weight: 600; color: #001753; }
+
+.linearBg {
+  /* fallback */
+  background-color: #9eb7d4;
+
+  /* Safari 4-5, Chrome 1-9 */
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#c0ddff), to(#ffffff));
+
+  /* Safari 5.1, Chrome 10+ */
+  background: -webkit-linear-gradient(top, #c0ddff, #ffffff);
+
+  /* Firefox 3.6+ */
+  background: -moz-linear-gradient(top, #c0ddff, #ffffff);
+
+  /* IE 10 */
+  background: -ms-linear-gradient(top, #c0ddff, #ffffff);
+
+  /* Opera 11.10+ */
+  background: -o-linear-gradient(top, #c0ddff, #ffffff);
+}
+
+#kmc-content, footer {
+	width: 100%;
+	margin: 0;
+	clear: both;
+}
+
+footer {
+	text-align: center;
+	margin-top: 4px;
+	padding: 6px 0;
+}
+
+footer p {
+	font-size: .7em;
+	margin-top: 8px;
+}
+
+footer a { color: #001753; }
+
+#kmc-content #text-style, footer #text-style {
+	background: #c0ddff; width: 100%; padding: 4px 0; margin: 0; font-size: smaller; text-align: center;
+}
+
+#kmc-content #text-style a, footer #text-style a { display: inline; margin: 0 0 4px 0; padding: 0 0 .25em 0; text-size: 70%; font-weight: 600; background: none; border: none; border-radius: 0; color: #001753; text-decoration: none; }
+#kmc-content #text-style a:before, footer #text-style a:before {
+	content: "◦  "; color: rgba(36,71,176,0.36);
+}
+#kmc-content #text-style a:after, footer #text-style a:after {
+	content: "  ◦"; color: rgba(36,71,176,0.36);
+}
+#kmc-content #text-style a:hover, footer #text-style a:hover  { color: black; background: rgb(255,213,0); }
+#kmc-content #text-style a.current, footer #text-style a.current  { box-shadow: none; color: rgb(3,22,225); }
+#kmc-content #text-style a:hover, footer #text-style a:hover  { color: black; }
+
+#kmc-content #kmc-password-div {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 40px;
+	margin-bottom: 10px;
+}
+
+#kmc-content #kmc-password-nav {
+	width: 100%;
+	height: auto;
+	text-align: center;
+	box-sizing: border-box;
+	border-bottom: 1px solid #999;
+}
+
+#kmc-content #kmc-password-ul {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	list-style: none;
+}
+
+#kmc-content #kmc-password-ul .kmc-password-li {
+	display: inline-block;
+	width: 30%;
+	margin: 2px auto;
+	padding: 0;
+	font-size: .8em;
+	line-height: .8em;
+}
+
+#kmc-password-ul .kmc-password-a {
+	display: block;
+	width: 95%;
+	margin: 0 auto;
+	height: 16px;
+	padding: 8px 0 0 0;
+	text-decoration: none;
+	color: #000;
+	background-color: #f7cf05;
+}
+
+a:hover {
+	color: #fff;
+	background: #649FC9;
+}
+
+a:visited { color: #124982); }
+
+sup { font-size: 70%; }
+
+.full-figure { width: 100%; margin: 10px 0; }
+
+.centre-figure { width: 80%; margin: 10px auto; }
+
+.right-figure { float: right; width: 45%; margin: 10px 0 10px 10px; text-align: center; }
+
+.small-right-figure { float: right; margin: 10px 0 10px 10px; text-align: center; }
+
+.small-left-figure { float: left; margin: 10px 20px 0 10px; text-align: center; }
+
+.left-figure { float: left; width: 45%; margin: 10px 10px 10px 0; text-align: center; }

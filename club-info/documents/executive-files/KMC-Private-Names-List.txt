@@ -1,0 +1,7 @@
+KMC Members with a private name: 2019-04-02
+
+LastName	FirstName	NickName	StreetAddress	StreetAddress2	City	Province	PostalCode	Email	Phone
+Bourke	Krista		721 Stromme Lane		Nelson			kristabourke@gmail.com	250-505-3942	
+hislop	Mac		5740 Kennedy Road		Cranbrook	BC	V1C7C1	mac.hislop@gmail.com		
+hislop	shelley		5740 Kennedy Road		Cranbrook	BC	V1C7C1	shelley.claude@gmail.com	8673367029	
+Hunter	Linda		#8 - 3260 Heddle Rd		Nelson			hunteridp@gmail.com	778 461-3220	

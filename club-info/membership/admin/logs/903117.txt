@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Michael
+    [NickName1] => 
+    [LastName1] => Bond
+    [Email1] => nitaigauranga7@gmail.com
+    [Phone1] => 2503664272
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => General Delivery 10 Jays Lane
+    [Addr2] => 
+    [City] => Argenta
+    [Prov] => BC
+    [Postal] => V0G 1B0
+    [private] => 1
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

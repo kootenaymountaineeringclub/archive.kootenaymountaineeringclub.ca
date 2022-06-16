@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!--#include virtual=/includes/head-first.incl.html -->
+
+	<title>Membership Admin Lists</title>
+	
+<!--#include virtual=/includes/head-2nd.incl.html -->
+	<link rel="stylesheet" type="text/css" href="/css/membership-styles.css">
+
+</head>
+<body>
+
+<div id="master">
+
+	<header>
+
+		<!--#include virtual=/includes/header-contents.incl.html -->
+	
+	</header>
+
+	<div id="content">
+
+		<section>
+		
+			<h2>Membership Admin</h2>
+			
+			<div id="loginform">
+			
+			<form action="admin-login.php" method="post" >
+			
+					<label for="loginID">Membership Admin ID:</label><input type="text" name="user"><br>
+					<label for="password">Password:</label><input type="password" name="password"><br>
+					<button type="submit" value="LogIn">Log In</button>
+				
+			</form>
+			
+			</div>
+			
+		</section>
+	
+	</div> <!-- end content -->
+
+	<footer>
+
+		<hr>
+		
+	</footer>
+
+</div> <!-- end master -->
+
+</body>
+</html>

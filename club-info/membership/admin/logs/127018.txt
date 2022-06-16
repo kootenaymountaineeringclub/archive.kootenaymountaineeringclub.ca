@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Cindy
+    [NickName1] => 
+    [LastName1] => Walker
+    [Email1] => katakwak@hotmail.com
+    [Phone1] => 250 505-4532
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => Box 467
+    [Addr2] => 
+    [City] => New Denver
+    [Prov] => BC
+    [Postal] => V0G 1S0
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

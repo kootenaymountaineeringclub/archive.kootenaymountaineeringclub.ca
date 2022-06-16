@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Cindy
+    [NickName1] => 
+    [LastName1] => Shlakoff
+    [Email1] => shlakoff@telus.net
+    [Phone1] => 250 513-2333
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 2633 9 Ave
+    [Addr2] => 
+    [City] => Castlegar
+    [Prov] => British Columbia
+    [Postal] => V1N 2Y7
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

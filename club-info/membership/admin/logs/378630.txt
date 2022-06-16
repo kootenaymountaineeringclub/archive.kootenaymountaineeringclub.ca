@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Couple
+    [FirstName1] => Dennis
+    [NickName1] => 
+    [LastName1] => Kruger
+    [Email1] => dennis.kruger@shaw.ca
+    [Phone1] => 778 529-0020
+    [FirstName2] => BE
+    [NickName2] => 
+    [LastName2] => Peacock
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => Box 67
+    [Addr2] => 8118 Procter East
+    [City] => Procter
+    [Prov] => BC
+    [Postal] => V0G1V0
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 61.00
+    [Newsletter] => 0
+)
+

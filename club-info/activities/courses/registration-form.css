@@ -1,0 +1,21 @@
+.form-indent {
+	margin-left: 15%;
+}
+
+.form-indent p {
+	margin-top: 2em;
+}
+
+.form-indent li {
+	line-height: .75em;
+}
+
+.form-indent div label {
+	vertical-align: middle;
+}
+
+.form-indent div textarea {
+	border-bottom: 0;
+	border-top: 1em;
+}
+

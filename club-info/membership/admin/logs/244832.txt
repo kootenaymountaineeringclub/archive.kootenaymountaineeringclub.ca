@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Carl
+    [NickName1] => 
+    [LastName1] => Jorgensen
+    [Email1] => kuvi_jorgensen@hotmail.com
+    [Phone1] => 250-793-4482
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 9415 103 Ave
+    [Addr2] => 
+    [City] => Fort St. John
+    [Prov] => BC
+    [Postal] => V1J 2G7
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

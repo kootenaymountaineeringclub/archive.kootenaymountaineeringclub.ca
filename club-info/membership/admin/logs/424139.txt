@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Fritz
+    [NickName1] => 
+    [LastName1] => Keller
+    [Email1] => swiss.fritzkeller@gmail.com
+    [Phone1] => 250-512-1385
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => PO Box 1234, 
+    [Addr2] => 
+    [City] => Rossland, 
+    [Prov] => BC, 
+    [Postal] => V0G1Y0
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

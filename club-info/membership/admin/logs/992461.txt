@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Irme
+    [NickName1] => 
+    [LastName1] => Mende
+    [Email1] => irme.mende@gmail.com
+    [Phone1] => 
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 
+    [Addr2] => 
+    [City] => Winlaw
+    [Prov] => 
+    [Postal] => 
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

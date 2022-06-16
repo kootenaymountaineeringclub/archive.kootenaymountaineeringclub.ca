@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Couple
+    [FirstName1] => Ian 
+    [NickName1] => 
+    [LastName1] => Brisco
+    [Email1] => ian@bris.com
+    [Phone1] => 204 292-2774
+    [FirstName2] => Melanie
+    [NickName2] => 
+    [LastName2] => Brisco
+    [Email2] => melyn8791@gmail.com
+    [Phone2] => 204 272-2774
+    [Addr1] => 
+    [Addr2] => 
+    [City] => Salmo
+    [Prov] => BC
+    [Postal] => V0G 1Z0
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 61.00
+    [Newsletter] => 0
+)
+

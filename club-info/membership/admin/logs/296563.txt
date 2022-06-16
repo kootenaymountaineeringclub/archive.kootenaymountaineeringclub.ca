@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Gene
+    [NickName1] => 
+    [LastName1] => Van Dyck
+    [Email1] => noemail@yahoo.com
+    [Phone1] => 
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 
+    [Addr2] => 
+    [City] => Balfour
+    [Prov] => 
+    [Postal] => 
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

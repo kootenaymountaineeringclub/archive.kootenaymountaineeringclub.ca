@@ -1,0 +1,27 @@
+Session:
+Array
+(
+    [MembType] => Couple
+    [FirstName1] => Goober
+    [NickName1] => 
+    [LastName1] => Peas
+    [Email1] => good@peas.ca
+    [Phone1] => 
+    [FirstName2] => Milli
+    [NickName2] => 
+    [LastName2] => Vanilla
+    [SharedEmail] => 1
+    [Email2] => 
+    [Phone2] => 123-456-7890
+    [Addr1] => 87 Wayback Lane
+    [Addr2] => 
+    [City] => Nelson
+    [Prov] => BC
+    [Postal] => V1L 5X7
+    [private] => 1
+    [kmc] => 1
+    [Agreement] => Agreed
+    [MembCost] => 61.00
+    [Newsletter] => 20.00
+)
+

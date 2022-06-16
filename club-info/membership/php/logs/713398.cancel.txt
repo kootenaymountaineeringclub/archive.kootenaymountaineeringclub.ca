@@ -1,0 +1,37 @@
+Get Express Checkout:
+
+
+Do Express Checkout:
+
+
+Session:
+Array
+(
+    [PROCESS] => NEW1
+    [MembType] => Individual
+    [FirstName1] => Flora
+    [NickName1] => 
+    [LastName1] => Wang
+    [Email1] => fwangcx@yahoo.ca
+    [Phone1] => 
+    [name1_age] => 0
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [name2_age] => 0
+    [Addr1] => 
+    [Addr2] => 
+    [City] => Nelson
+    [Prov] => 
+    [Postal] => 
+    [private] => 1
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+    [MembID] => 713398
+    [membNames] => Flora Wang
+    [paydescription] => KMC Individual membership for $38
+)
+

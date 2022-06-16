@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Elizabeth
+    [NickName1] => 
+    [LastName1] => von Ah
+    [Email1] => info@hauslemon.com
+    [Phone1] => 250-355-2536
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 7721 Loyola Rd		
+    [Addr2] => 
+    [City] => Slocan	
+    [Prov] => BC
+    [Postal] => V0G 2C0
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => ben
+    [NickName1] => 
+    [LastName1] => Hagen
+    [Email1] => br-hagen@hotmail.com
+    [Phone1] => 403-763-8011
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 411 Derosa Drive
+    [Addr2] => 
+    [City] => New Denver, 
+    [Prov] => BC
+    [Postal] => V0G 1S1
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

@@ -1,0 +1,141 @@
+Get Express Checkout:
+Array
+(
+    [TOKEN] => EC-0EY0979980257590X
+    [BILLINGAGREEMENTACCEPTEDSTATUS] => 0
+    [CHECKOUTSTATUS] => PaymentActionNotInitiated
+    [TIMESTAMP] => 2018-06-04T07:32:39Z
+    [CORRELATIONID] => b7652eb785da1
+    [ACK] => Success
+    [VERSION] => 109.0
+    [BUILD] => 46549960
+    [EMAIL] => jenpoff@gmail.com
+    [PAYERID] => 2QMV77RA8F3KN
+    [PAYERSTATUS] => unverified
+    [FIRSTNAME] => jennet
+    [LASTNAME] => Poffenroth
+    [COUNTRYCODE] => CA
+    [SHIPTONAME] => jennet poffenroth
+    [SHIPTOSTREET] => 9 - 3260 Heddle rd
+    [SHIPTOCITY] => Nelson
+    [SHIPTOSTATE] => BC
+    [SHIPTOZIP] => V1L 6M3
+    [SHIPTOCOUNTRYCODE] => CA
+    [SHIPTOCOUNTRYNAME] => Canada
+    [ADDRESSSTATUS] => Confirmed
+    [CURRENCYCODE] => CAD
+    [AMT] => 38.00
+    [ITEMAMT] => 38.00
+    [SHIPPINGAMT] => 0.00
+    [HANDLINGAMT] => 0.00
+    [TAXAMT] => 0.00
+    [NOTIFYURL] => http://www.kootenaymountaineering.bc.ca/booking/IPN_Post.php
+    [INSURANCEAMT] => 0.00
+    [SHIPDISCAMT] => 0.00
+    [INSURANCEOPTIONOFFERED] => false
+    [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+    [PAYMENTREQUEST_0_AMT] => 38.00
+    [PAYMENTREQUEST_0_ITEMAMT] => 38.00
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0.00
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0.00
+    [PAYMENTREQUEST_0_TAXAMT] => 0.00
+    [PAYMENTREQUEST_0_NOTIFYURL] => http://www.kootenaymountaineering.bc.ca/booking/IPN_Post.php
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0.00
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0.00
+    [PAYMENTREQUEST_0_SELLERPAYPALACCOUNTID] => cabins@kootenaymountaineeringclub.ca
+    [PAYMENTREQUEST_0_INSURANCEOPTIONOFFERED] => false
+    [PAYMENTREQUEST_0_SHIPTONAME] => jennet poffenroth
+    [PAYMENTREQUEST_0_SHIPTOSTREET] => 9 - 3260 Heddle rd
+    [PAYMENTREQUEST_0_SHIPTOCITY] => Nelson
+    [PAYMENTREQUEST_0_SHIPTOSTATE] => BC
+    [PAYMENTREQUEST_0_SHIPTOZIP] => V1L 6M3
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => CA
+    [PAYMENTREQUEST_0_SHIPTOCOUNTRYNAME] => Canada
+    [PAYMENTREQUEST_0_ADDRESSSTATUS] => Confirmed
+    [PAYMENTREQUESTINFO_0_ERRORCODE] => 0
+)
+
+
+Do Express Checkout:
+Array
+(
+    [TOKEN] => EC-0EY0979980257590X
+    [SUCCESSPAGEREDIRECTREQUESTED] => false
+    [TIMESTAMP] => 2018-06-04T07:32:41Z
+    [CORRELATIONID] => 28bc8cf2e8ad7
+    [ACK] => Success
+    [VERSION] => 109.0
+    [BUILD] => 46549960
+    [INSURANCEOPTIONSELECTED] => false
+    [SHIPPINGOPTIONISDEFAULT] => false
+    [PAYMENTINFO_0_TRANSACTIONID] => 0LH92813KJ8629823
+    [PAYMENTINFO_0_TRANSACTIONTYPE] => expresscheckout
+    [PAYMENTINFO_0_PAYMENTTYPE] => instant
+    [PAYMENTINFO_0_ORDERTIME] => 2018-06-04T07:32:40Z
+    [PAYMENTINFO_0_AMT] => 38.00
+    [PAYMENTINFO_0_FEEAMT] => 1.40
+    [PAYMENTINFO_0_TAXAMT] => 0.00
+    [PAYMENTINFO_0_CURRENCYCODE] => CAD
+    [PAYMENTINFO_0_PAYMENTSTATUS] => Completed
+    [PAYMENTINFO_0_PENDINGREASON] => None
+    [PAYMENTINFO_0_REASONCODE] => None
+    [PAYMENTINFO_0_PROTECTIONELIGIBILITY] => Eligible
+    [PAYMENTINFO_0_PROTECTIONELIGIBILITYTYPE] => ItemNotReceivedEligible,UnauthorizedPaymentEligible
+    [PAYMENTINFO_0_SELLERPAYPALACCOUNTID] => cabins@kootenaymountaineeringclub.ca
+    [PAYMENTINFO_0_SECUREMERCHANTACCOUNTID] => DPZSYWH6R42A2
+    [PAYMENTINFO_0_ERRORCODE] => 0
+    [PAYMENTINFO_0_ACK] => Success
+)
+
+
+Session:
+Array
+(
+    [PROCESS] => NEW1
+    [MembType] => Individual
+    [FirstName1] => jennet
+    [NickName1] => 
+    [LastName1] => poffenroth
+    [Email1] => jenpoff@gmail.com
+    [Phone1] => 647 244-0473
+    [name1_age] => 54
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [name2_age] => 0
+    [Addr1] => 9 - 3260 Heddle Rd.
+    [Addr2] => 
+    [City] => Nelson
+    [Prov] => BC
+    [Postal] => V1L 6M3
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+    [MembID] => 843261
+    [membNames] => jennet poffenroth
+    [paydescription] => KMC Individual membership for $38
+    [Payment_Amount] => 38
+    [currencyCodeType] => CAD
+    [nvpReqArray] => Array
+        (
+            [METHOD] => DoExpressCheckoutPayment
+            [VERSION] => 109.0
+            [PWD] => DEHAUSD29WJDQU72
+            [USER] => cabins_api1.kootenaymountaineering.bc.ca
+            [SIGNATURE] => AFcWxV21C7fd0v3bYYYRCpSSRl31AxVmhWt3bMtf7fmWI2Yy7O.utl8n
+            [TOKEN] => EC-0EY0979980257590X
+            [PAYERID] => 2QMV77RA8F3KN
+            [IPADDRESS] => kootenaymountaineeringclub.ca
+            [PAYMENTREQUEST_0_AMT] => 38
+            [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+            [BUTTONSOURCE] => PP-DemoPortal-EC-IC-php
+        )
+
+    [TOKEN] => EC-0EY0979980257590X
+    [payer_id] => 2QMV77RA8F3KN
+    [MembEmailTo] => jenpoff@gmail.com
+)
+

@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Couple
+    [FirstName1] => Doug
+    [NickName1] => 
+    [LastName1] => Makortoff
+    [Email1] => mcphillips2009@live.com
+    [Phone1] => 250
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => mcphillips2009@live.com
+    [Phone2] => 
+    [Addr1] => 
+    [Addr2] => 
+    [City] => 
+    [Prov] => 
+    [Postal] => 
+    [private] => 0
+    [Agreement] => xxx
+    [MembCost] => 61.00
+    [Newsletter] => 0
+)
+

@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Nadine
+    [NickName1] => 
+    [LastName1] => Hetrick
+    [Email1] => deenie13@hotmail.com
+    [Phone1] => 250-263-7075
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => Box 217
+    [Addr2] => 5618 Hwy#6, 
+    [City] => Winlaw, BC
+    [Prov] => BC
+    [Postal] => V0G2J0
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

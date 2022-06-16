@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Couple
+    [FirstName1] => Sara
+    [NickName1] => 
+    [LastName1] => Judith
+    [Email1] => sara.judith1@gmail.com
+    [Phone1] => 250-352-5218
+    [FirstName2] => Katie
+    [NickName2] => 
+    [LastName2] => McEwen
+    [Email2] => kamcewen@gmail.com
+    [Phone2] => 
+    [Addr1] => 918 Tenth St.
+    [Addr2] => 
+    [City] => Nelson
+    [Prov] => BC
+    [Postal] => V1L 3C8
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 61.00
+    [Newsletter] => 0
+)
+

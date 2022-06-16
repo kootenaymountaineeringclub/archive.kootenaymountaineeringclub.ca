@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Sarah
+    [NickName1] => 
+    [LastName1] => Ellis-Vye
+    [Email1] => sellisvye@hotmail.com
+    [Phone1] => 250 505-6640
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] =>  244 High St
+    [Addr2] => 
+    [City] =>  Nelson, 
+    [Prov] => BC
+    [Postal] => V1L3Z7
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

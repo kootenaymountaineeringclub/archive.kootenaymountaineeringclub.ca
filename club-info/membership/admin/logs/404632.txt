@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Richard
+    [NickName1] => 
+    [LastName1] => Bredl
+    [Email1] => rossland_pow@yahoo.ca
+    [Phone1] => 250-512-7547
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 1627 Leroi Ave
+    [Addr2] => PO Box 1576
+    [City] => Rossland
+    [Prov] => BC
+    [Postal] => V0G1Y0
+    [private] => 1
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

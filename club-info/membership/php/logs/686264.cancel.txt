@@ -1,0 +1,37 @@
+Get Express Checkout:
+
+
+Do Express Checkout:
+
+
+Session:
+Array
+(
+    [PROCESS] => NEW1
+    [MembType] => Individual
+    [FirstName1] => Melanie
+    [NickName1] => 
+    [LastName1] => MacVoy
+    [Email1] => mel.mac@shaw.ca
+    [Phone1] => (250) 423-8759
+    [name1_age] => 54
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [name2_age] => 0
+    [Addr1] => 1710 McDonald Ave.
+    [Addr2] => 
+    [City] => Fernie
+    [Prov] => BC
+    [Postal] => V0B 1M1
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+    [MembID] => 686264
+    [membNames] => Melanie MacVoy
+    [paydescription] => KMC Individual membership for $38
+)
+

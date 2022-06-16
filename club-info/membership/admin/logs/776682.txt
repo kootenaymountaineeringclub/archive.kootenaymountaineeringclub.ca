@@ -1,0 +1,26 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Alan
+    [NickName1] => 
+    [LastName1] => McCuaig
+    [Email1] => alan.mccuaig@shaw.ca
+    [Phone1] => 250-825-2226
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => #11-1691 Highway 3A
+    [Addr2] => 
+    [City] => Nelson
+    [Prov] => BC
+    [Postal] => V1L6J8
+    [private] => 0
+    [fmcbc] => 1
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0.00
+)
+

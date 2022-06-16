@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Couple
+    [FirstName1] => David
+    [NickName1] => 
+    [LastName1] => Yole
+    [Email1] => davidyole@gmail.com
+    [Phone1] => 
+    [FirstName2] => Ingrid
+    [NickName2] => 
+    [LastName2] => Russell
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 601 9th Street
+    [Addr2] => 
+    [City] => Nelson
+    [Prov] => British Columbia
+    [Postal] => V1l3b5
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 61.00
+    [Newsletter] => 0
+)
+

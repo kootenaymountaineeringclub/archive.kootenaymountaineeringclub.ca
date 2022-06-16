@@ -1,0 +1,26 @@
+Session:
+Array
+(
+    [MembType] => Couple
+    [FirstName1] => Peter
+    [NickName1] => 
+    [LastName1] => Wood
+    [Email1] => annpeterwood@gmail.com
+    [Phone1] => 250 359 7107
+    [FirstName2] => Ann
+    [NickName2] => 
+    [LastName2] => Wood
+    [SharedEmail] => 1
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 3302 South Slocan Village Road
+    [Addr2] => 
+    [City] => SOUTH SLOCAN
+    [Prov] => BC
+    [Postal] => V0G 2G1
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 61.00
+    [Newsletter] => 0
+)
+

@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Kelsey
+    [NickName1] => 
+    [LastName1] => Baerg
+    [Email1] => kelsey.baerg@gmail.com
+    [Phone1] => 250 509-2399
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 108 High St.
+    [Addr2] => 
+    [City] => Nelson
+    [Prov] => BC
+    [Postal] => V1lZ4 3
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

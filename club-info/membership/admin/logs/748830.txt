@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Kathryn
+    [NickName1] => 
+    [LastName1] => Kimmerly
+    [Email1] => Kathryn.Kimmerly@gmail.com
+    [Phone1] => 250-608-3095
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 533-5th Avenue
+    [Addr2] => 
+    [City] => Castlegar
+    [Prov] => BC
+    [Postal] => V1N 1W1
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

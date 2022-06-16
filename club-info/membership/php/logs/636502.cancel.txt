@@ -1,0 +1,55 @@
+Get Express Checkout:
+
+
+Do Express Checkout:
+
+
+Session:
+Array
+(
+    [PROCESS] => NEW1
+    [MembType] => Individual
+    [FirstName1] => Colin
+    [NickName1] => 
+    [LastName1] => Payne
+    [Email1] => colinpayne@gmail.com
+    [Phone1] => 
+    [name1_age] => 34
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [name2_age] => 0
+    [Addr1] => 3167 Baker Road
+    [Addr2] => 
+    [City] => South Slocan
+    [Prov] => BC
+    [Postal] => V0G2G1
+    [private] => 0
+    [fmcbc] => 1
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+    [MembID] => 636502
+    [membNames] => Colin Payne
+    [paydescription] => KMC Individual membership for $38
+    [Payment_Amount] => 38
+    [currencyCodeType] => CAD
+    [nvpReqArray] => Array
+        (
+            [METHOD] => SetExpressCheckout
+            [VERSION] => 109.0
+            [PWD] => DEHAUSD29WJDQU72
+            [USER] => cabins_api1.kootenaymountaineering.bc.ca
+            [SIGNATURE] => AFcWxV21C7fd0v3bYYYRCpSSRl31AxVmhWt3bMtf7fmWI2Yy7O.utl8n
+            [PAYMENTREQUEST_0_AMT] => 38
+            [RETURNURL] => https://kootenaymountaineeringclub.ca/club-info/membership/php/lightboxreturn.php
+            [CANCELURL] => https://kootenaymountaineeringclub.ca/club-info/membership/php/cancel.php
+            [PAYMENTREQUEST_0_CURRENCYCODE] => CAD
+            [BUTTONSOURCE] => PP-DemoPortal-EC-IC-php
+        )
+
+    [TOKEN] => EC-7RD08851BD969920Y
+)
+

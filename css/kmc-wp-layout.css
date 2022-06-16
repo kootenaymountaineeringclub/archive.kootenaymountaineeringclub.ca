@@ -1,0 +1,143 @@
+/*------ SMALLEST -------------------------*/
+
+@media (max-width: 389px) {
+
+	#master {                              /*    MASTER    */
+		width: 320px;
+	}
+	
+	#kmc-header img {                           /*    HEADER    */
+		display: none;
+		height: 0;
+		margin: 0;
+		position-x: 0;
+		position-y:	0;
+	}
+	
+	#kmc-header #header-nav {
+		width: 100%;
+		height: 30px;
+	}
+	
+	#kmc-header #header-nav a:nth-child(1) { width: 15%; margin-left: 0; }
+	#kmc-header #header-nav a:nth-child(2) { width: 22%; }
+	#kmc-header #header-nav a:nth-child(3) { width: 27%; }
+	#kmc-header #header-nav a:nth-child(4) { width: 31%; margin-right: 0; }
+	
+	#kmc-header #header-nav a {
+		height: 16px;
+		font-size: 75%;
+	}
+
+	#kmc-header h1, header p {
+		text-align: center;
+	}
+	
+	#kmc-header h1 {
+		margin-top: 6px;
+		font-size: 1em;
+	}
+	
+	#kmc-header p {
+		font-size: .8em;
+	}
+
+	#main-social-nav 	{
+		font-size: .7em;
+	}
+}
+
+/*-------------- MEDIUM --------------------------*/
+
+@media (min-width: 390px) and (max-width: 640px) {
+
+	#master {                              /*    MASTER    */
+		width: 98%;
+		min-width: 330px;
+	}
+	
+	#kmc-header img {                           /*    HEADER    */
+		display: none;
+		height: 0;
+		margin: 0;
+		position-x: 0;
+		position-y:	0;
+	}
+	
+	#kmc-header #header-nav {
+		width: 100%;
+		height: 30px;
+	}
+	
+	#kmc-header #header-nav a:nth-child(1) { width: 15%; }
+	#kmc-header #header-nav a:nth-child(2) { width: 22%; }
+	#kmc-header #header-nav a:nth-child(3) { width: 27%; }
+	#kmc-header #header-nav a:nth-child(4) { width: 31%; }
+	
+	#kmc-header #header-nav a {
+		height: 16px;
+		font-size: .7em;
+	}
+
+	#kmc-header h1, #kmc-header p {
+		text-align: center;
+	}
+	
+	#kmc-header h1 {
+		margin-top: 10px;
+		font-size: 1.1em;
+	}
+	
+	#kmc-header p {
+		font-size: .9em;
+	}
+	#kmc-header #photographer {
+		position: absolute;
+		top: 130px;
+		left: 5px;
+	}
+	#nav-social-nav a 	{
+		font-size: .9em;
+	}
+}
+
+/*----------- BIGGEST ----------------------------*/
+
+@media (min-width: 641px) and (max-width: 2400px) {
+
+	#master {                              /*    MASTER    */
+		max-width: 980px;
+	}
+	#kmc-header { position: relative; }
+	
+	#kmc-header #header-nav {                           /*    HEADER    */
+		float: left;
+		width: 150px;
+		height: 150px;
+	}
+	
+	#kmc-header h1, #kmc-header p {
+		position: relative;
+		top: -150px;
+		left: 100px;
+		width: 50%;
+	}
+	
+	#kmc-header h1 {
+		font-size: 1.6em;
+	}
+	
+	#kmc-header p {
+		font-size: .9em;
+	}
+
+	header #photographer {
+		position: absolute;
+		top: 130px;
+		left: 150px;
+	}
+
+	#nav-social-nav a 	{
+		font-size: 90%;
+	}
+}

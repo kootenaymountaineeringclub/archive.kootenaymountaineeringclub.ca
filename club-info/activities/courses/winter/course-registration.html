@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!--#include virtual=/includes/head-first.incl.html -->
+
+	<title>KMC Winter Course Registration</title>
+	
+<!--#include virtual=/includes/head-2nd.incl.html -->
+<link rel="stylesheet" type="text/css" href="/css/membership-styles.css">
+<link rel="stylesheet" type="text/css" href="registration-form.css">
+
+</head>
+<body>
+
+<div id="master">
+
+	<header>
+
+		<!--#include virtual=/club-info/includes/page-header-club.incl.html -->
+
+		<!--#include virtual=/includes/header-contents.incl.html -->
+	
+	</header>
+
+	<div id="content">
+
+		<!--#include virtual=../../../includes/club-trips.incl.html -->
+
+		<section>
+		
+		<h2>KMC 2017-2018 Winter Courses</h2>
+		
+		<p class="centred"><strong>Backcountry ski trips are taught by the KMC. Avalanche courses are taught by <a href="http://summitmountainguides.com">Summit Mountain Guides</a></strong></p>
+		
+		<div class="announcement">
+			<p><strong>Before you send in this form...</strong></p>
+			<ul>
+				<li>Familiarize yourself with the <a href="http://www.acmg.ca/03public/resources/waiver.asp">liability waiver and its conditions</a>. All participants will be asked to read and sign this prior to any course.</li>
+				<li> Carefully read the <a href="http://summitmountainguides.com/booking/#limits">limits and cancellation policies</a> and consider purchasing trip cancellation insurance.</li>
+			</ul>
+			<p><strong>Payment</strong></p>
+			<p><strong>Interac e-transfer only to the KMC treasurer with the email of treasurer@kootenaymountaineeringclub.ca</strong>.<br>Detail information on e-transfer can be found at <a href="http://interac.ca/en/interac-e-transfer-consumer.html">http://interac.ca/en/interac-e-transfer-consumer.html</a></p>
+		</div>
+
+		<p class="requiredlabels">All fields labeled in red are required.</p>
+		
+		<form method="post" action="course-registration.php">
+			
+			<div class="formPart" id="course-selection">
+				<p class="formHeader">Winter Courses</p>
+				<fieldset class="form-indent">
+				  <legend class="required">Select one or more courses</legend>
+				    <input type="checkbox" id="intro-ski" name="intro-ski" value="intro-ski">
+				    <label for="intro-ski">Introduction to Backcountry Skiing - Dec. 10 - FREE</label><br>
+
+				    <input type="checkbox" id="inter-ski" name="inter-ski" value="inter-ski">
+				    <label for="inter-ski">Intermediate Backcountry Skiing - Jan. 20 - FREE</label><br>
+				  
+				    <input type="checkbox" id="ast1-snow" name="ast1-snow" value="ast1-snow">
+				    <label for="ast1-snow">AST 1 - Dec. 16-17 - $190</label><br>
+				  
+				    <input type="checkbox" id="rescue" name="rescue" value="rescue">
+				    <label for="rescue">Companion Rescue & Refresher Course - Jan. 7 - $95</label><br>
+				  
+				    <input type="checkbox" id="avi-terrain" name="avi-terrain" value="avi-terrain">
+				    <label for="avi-terrain">Managing Avalanche Terrain - NEW - Jan. 14 - $95</label><br>
+				  
+				    <input type="checkbox" id="ast1-shoe" name="ast1-shoe" value="ast1-shoe">
+				    <label for="ast1-shoe">AST 1 on snowshoes - Jan. 27-28 - $190</label><br>
+				  
+				    <input type="checkbox" id="ast2" name="ast2" value="ast2">
+				    <label for="ast2">AST 2 (See below for dates) - $400</label>
+				  
+				  <p>Possible AST 2 dates are:
+					  <ul>
+						<li>Jan. 4, 5-7, 2018</li>
+						<li>Jan. 12, 13-15, 2018</li>
+						<li>Feb. 16, 17-19, 2018</li>
+						<li>Mar. 9, 10-12, 2018</li>
+					</ul></p>
+					<label for="preferred-dates">Your preferred dates:</label><input type="text" id="preferred-dates" name="preferred-dates" size="40">
+					</fieldset>
+			</div>
+			
+			<div class="formPart" id="participant">
+				<p class="formHeader">Participant Information</p>
+				<div class="formItem">
+				<fieldset class="form-indent">
+					<label for="full-name" class="required">Full Name:</label> <input type="text" name="full-name" size="30" required><br>
+					<label for="street" class="required">Street:</label> <input type="text" name="street" size="30" required><br>
+					<label for="street2">Street 2:</label> <input type="text" name="street2" size="30"></br>
+					<label for="city" class="required">City:</label> <input type="text" name="city" size="30" required><br>
+					<label for="prov" class="required">Province:</label> <input type="text" name="prov" size="2" required><br>
+					<label for="postcode" class="required">Postal code:</label> <input type="text" name="postcode" size="7" required><br>
+				<hr>					
+					<label for="email" class="required">Email:</label> <input type="email" name="email" size="30" required><br>
+					<label for="phone" class="required">Phone:</label> <input type="tel" name="phone" size="12" required><br>
+					<label for="age" class="required">Age:</label> <input type="text" name="age" size="3" required><br>
+				</fieldset>
+				</div>
+			</div>
+			
+			<div class="formPart" id="background">
+				<p class="formHeader">Background Experience and Equipment</p>
+				<div class="formItem">
+				<fieldset class="form-indent">
+					
+					<label for="background" class="required">What is your prior experience (skiing and ski mountaineering) relevant to this course?:</label>
+					<textarea cols="40" rows="6" name="experience" required></textarea><br>
+					
+				  <p>Equipment you need to rent:</p>
+				  
+					<label for="none" class="required">None:</label> <input type="checkbox" id="none" name="none" value="none" checked><br>
+					<label for="shovel" class="required">Avalanche shovel</label> <input type="checkbox" id="shovel" name="shovel" value="shovel"><br>
+					<label for="probe" class="required">Avalanche probe</label> <input type="checkbox" id="probe" name="probe" value="probe"><br>
+					<label for="transceiver" class="required">Avalanche transceiver</label> <input type="checkbox" id="transceiver" name="transceiver" value="transceiver"><br>
+				</fieldset>
+				</div>
+			</div>
+			
+			<div class="formPart" id="medical">
+				<p class="formHeader">Medical Information</p>
+				<div class="formItem">
+				<fieldset class="form-indent">
+					<label for="allergies">List any allergies you have.</label>
+					<textarea cols="40" rows="6" name="allergies"></textarea><br>
+					
+					<label for="injuries">Describe any chronic injuries, disabilities or injuries you have.</label>
+					<textarea cols="40" rows="6" name="injuries"></textarea><br>
+
+					<label for="medications">Are you on medications? If yes, please describe.</label>
+					<textarea cols="40" rows="6" name="medications"></textarea><br>
+
+					<label for="food">Do you have any food allergies or dietary restrictions? If yes describe.</label>
+					<textarea cols="40" rows="6" name="food"></textarea><br>
+
+				</fieldset>
+				</div>
+			</div>
+
+			<div class="formPart" id="emergency">
+				<p class="formHeader">Emergency Contact</p>
+				<div class="formItem">
+				<fieldset class="form-indent texts">
+					<div>
+					<label for="contact-name">Name:</label><input type="text" id="contact-name" name="contact-name" size="30"><br>
+					</div>
+					<div>
+					<label for="relationship">Relationship:</label><input type="text" id="relationship" name="relationship" size="30"><br>
+					</div>
+					<div>
+					<label for="emerge-phone">Phone(s):</label><input type="text" id="emerge-phone" name="emerge-phone" size="36"><br>
+					</div>
+				</fieldset>
+				</div>
+			</div>
+
+			<div class="formPart" id="submit">
+				<div class="centred">
+				<input type="submit" value="Register" width="100" color="green"> 
+				</div>
+			</div>
+		</form>
+		
+		</section>
+	
+	</div> <!-- end content -->
+
+	<footer>
+
+		<!--#include virtual=../../../includes/club-trips.incl.html -->
+
+	</footer>
+
+</div> <!-- end master -->
+
+</body>
+</html>

@@ -1,0 +1,38 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => sdgkj;
+    [NickName1] => 
+    [LastName1] => sakljgsd
+    [Email1] => kjlsdgasdg
+    [Phone1] => 
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 
+    [Addr2] => 
+    [City] => sdagjlasg
+    [Prov] => 
+    [Postal] => 
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0.00
+)
+
+OOPS:
+Oops.  Error: Unknown column 'Director' in 'field list'
+
+Oops.  Error: Unknown column 'Director' in 'field list'/n/n
+Query1:
+insert into `Member` (`MembershipID`,`Year`,`MembershipType`,`FirstName`,`NickName`,`LastName`,`DistinctName`,
+	  						`StreetAddress`,`StreetAddress2`,`City`,`Province`,`PostalCode`,
+	  						`Email`,`Phone`,`KmcNewsletter`,`FmcbcNewsletter`,
+	  						`PrivateName`,`PaymentMethod`,`Amount`) values (322118, '2016', 'Individual', 'sdgkj;', '', 'sakljgsd', 'sakljgsd, sdgkj;', '', '', 'sdagjlasg', '', '', 'kjlsdgasdg', '', 0, 0, 0, Director,38)
+Query1:
+insert into `Member` (`MembershipID`,`Year`,`MembershipType`,`FirstName`,`NickName`,`LastName`,`DistinctName`,
+	  						`StreetAddress`,`StreetAddress2`,`City`,`Province`,`PostalCode`,
+	  						`Email`,`Phone`,`PrivateName`,`PaymentMethod`) values 

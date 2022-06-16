@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Irme
+    [NickName1] => 
+    [LastName1] => Mende
+    [Email1] => irme.mende@gmail.com
+    [Phone1] => 250-226-7585
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 3720 Eazy Road
+    [Addr2] => 
+    [City] => Winlaw
+    [Prov] => BC
+    [Postal] => V0G 1J0
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Beatrice
+    [NickName1] => 
+    [LastName1] => Kirchhofer
+    [Email1] => beatrice_kirchhofer@hotmail.com
+    [Phone1] => 250 460-1681
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => Box 235
+    [Addr2] => 
+    [City] => Robson
+    [Prov] => BC
+    [Postal] => V0G 1X0
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

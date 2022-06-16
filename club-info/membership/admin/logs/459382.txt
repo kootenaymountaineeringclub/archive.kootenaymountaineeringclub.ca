@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Heather
+    [NickName1] => 
+    [LastName1] => Myers
+    [Email1] => h.myers@shaw.ca
+    [Phone1] => 250-399-4109
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => 2383 Hwy 3A, 
+    [Addr2] => 
+    [City] => Nelson,
+    [Prov] => BC
+    [Postal] => V1L6K7
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+

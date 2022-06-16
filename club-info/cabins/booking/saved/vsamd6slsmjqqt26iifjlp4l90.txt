@@ -1,0 +1,1 @@
+{"id":"vsamd6slsmjqqt26iifjlp4l90","count":0,"start":0,"booker":"tpoitras@ualberta.ca","sy":"2019","sm":"4","sd":"3","run-beds":0,"run-avail":1,"run-book":0,"remember":"&sd=3&sm=4&sy=2019&count=0"}

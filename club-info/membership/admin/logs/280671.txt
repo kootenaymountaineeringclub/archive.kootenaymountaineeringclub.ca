@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Couple
+    [FirstName1] => Leta
+    [NickName1] => 
+    [LastName1] => Bak
+    [Email1] => rootsdownstudio@gmail.com
+    [Phone1] => 250-442-4277
+    [FirstName2] => Aaron
+    [NickName2] => 
+    [LastName2] => Bak
+    [Email2] => aaronbak1980@gmail.com
+    [Phone2] => 
+    [Addr1] => 3475 London Road
+    [Addr2] => 
+    [City] => Grand Forks
+    [Prov] => BC
+    [Postal] => V0H 1H2
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 61.00
+    [Newsletter] => 0
+)
+

@@ -1,0 +1,25 @@
+Session:
+Array
+(
+    [MembType] => Individual
+    [FirstName1] => Holli
+    [NickName1] => 
+    [LastName1] => Nowak
+    [Email1] => holliflower_86@hotmail.com
+    [Phone1] => 250 921-9486
+    [FirstName2] => 
+    [NickName2] => 
+    [LastName2] => 
+    [Email2] => 
+    [Phone2] => 
+    [Addr1] => Box 2157
+    [Addr2] => 
+    [City] => Rossland
+    [Prov] => BC
+    [Postal] => V0G 1Y0
+    [private] => 0
+    [Agreement] => Agreed
+    [MembCost] => 38
+    [Newsletter] => 0
+)
+
